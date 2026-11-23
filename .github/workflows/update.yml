@@ -19,10 +19,12 @@ jobs:
       - name: Collect public job feeds
         env:
           WORK24_API_KEY: ${{ secrets.WORK24_API_KEY }}
-        run: python scripts/update_jobs.py
+        run: |
+          python scripts/update_jobs.py
+          python scripts/watch_companies.py
       - name: Commit updated data
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/jobs.json
+          git add data/jobs.json data/watch_results.json
           git diff --cached --quiet || (git commit -m 'data: refresh job listings' && git push)
