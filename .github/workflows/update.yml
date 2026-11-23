@@ -21,7 +21,6 @@ jobs:
           WORK24_API_KEY: ${{ secrets.WORK24_API_KEY }}
         run: |
           python scripts/update_jobs.py
-          python scripts/watch_companies.py
           python scripts/check_official.py
       - name: Commit updated data
         run: |
