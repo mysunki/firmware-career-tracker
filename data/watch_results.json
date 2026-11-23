@@ -1,5 +1,1735 @@
 {
-  "updated_at": null,
-  "leads": [],
-  "errors": []
+  "updated_at": "2026-11-23T01:28:34.680696+00:00",
+  "leads": [
+    {
+      "id": "cbabfa7ef29284ac279c",
+      "company": "HL만도",
+      "title": "한국전파진흥협회, 모빌리티 SW 인력양성 위한 IVS 4기 교육생 모집 - 정보통신신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Jd290SUhuaHRscGo1YnNVNkQ4VVFfN0JpSDlfWnA0MTg3TnNTV0I0ZUFZbVY4WUJSM1oyWTlFMEV3UXZiVUpXTzUyMk9BQnVpa1kxQUFqYXlwaEYwVWFpQlpxNVZCcU0t0gFsQVVfeXFMTVk3blJJWWRyUnRsYk1veDk1bWxrdHVPNWcycG5TV0VaX1ZQaE02ZHRhQ3BZd2RhZzQ4WkhZYXN5YUlEam1COEJjRXZSbWZxb0hJQmxLdHhmc3RzWDJhU3FqOHRacXl1V1Qwelpn?oc=5",
+      "published_at": "2025-04-16T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "d9f7472e9b61394b3d05",
+      "company": "HL만도",
+      "title": "모빌리티 인력양성 'Intelligent Vehicle School 2기' 모집 - 더테크",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JU2gxZG5WTXNjX1RqNmVYSW01d2NSaXpuZjhUaG9MTjdxYUJ4bno3M0VqdWs0R25oXzRSYV9OUF9HSTRTUVpYZ09obXZGRThVc1BoSVhNU2xUUzF0VzZGaGZwNA?oc=5",
+      "published_at": "2024-04-11T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "eaa7651b752dca5b07e7",
+      "company": "HL만도",
+      "title": "KETI·HL만도, 로보틱스 산업 생태계 확장 위한 협력 시동 - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CbkdXRlBITDVkdkxPeUdvME5OQldiR3FiWlFsek5DNFp3N2JmcGtkQUN2UllBS2NtNGRKYVZjLV9YMTJKZDZvR3g5a3BlVFJjZlFOcVFB?oc=5",
+      "published_at": "2025-11-07T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "9daf4f71a0f6ddf4dbd2",
+      "company": "HL만도",
+      "title": "한국전파진흥협회、임베디드&자율주행 기반 지능형 차량 SW 전문인력 양성 위한 Intelligent Vehicle School 3기 클래스메이트 모집 - 글로벌에픽",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tMTQ0eHN4X2FWRVlkaXQzNFZpRVV0MlRYdVl0bTY5MmI5UXhmcEJ2UUJtVXRCbFRQTzRBcEgtNzNPY3gybU8tVHFnMTdDb2gtaUNDZXBaZUpQYXE0VkNRWFdOUEhsOFBoV2lXMXJxTFhsamNtQzI1WGtaeEk?oc=5",
+      "published_at": "2024-10-23T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "eb6038808cab3d59090a",
+      "company": "HL만도",
+      "title": "전파진흥협, HL그룹과 '지능형 차량 SW 전문' 교육생 모집 - AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3b3BFWEJ5eVBaM0xqY2V3dWdJMk4xYkhfSDNhSEZSVmY5M21CSklmRzhrWWFTUGtGY1lFemJURGpZVU1ZR0x5QXBnaW9QNVEyQ1dSRGU0b042bUtHaDZCeEVsbHE2LWxkcFE?oc=5",
+      "published_at": "2023-10-05T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "0ee670c70fe24be45a33",
+      "company": "HL만도",
+      "title": "한국전파진흥협회, 모빌리티 SW 인력양성 위한 IVS 2기 교육생 모집 - IT조선",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44cm1jSUpiWWpUSkJaNkllcTdPa3hqR2JpZExrTDRDcTFBb1o1THpfTDR2QUZNTlk4V3lkN0t4T094Wm0yQnJZU20tTDZSYzVnZ2RhaHVESXNNcjhqNmFPbVNlMDFqMkxXd0N6YXY1ZWrSAXRBVV95cUxOLTIzSS02MDhDQzdKejhLQXk5ekR1VWp1NDluOFJkMHN6bVE2aDNFYnhGLWdsdUt0OU9nNURKMmZIVDFCWkV4QVBjZ2JrdWZPNHN0dGFlOUlmQUNDejRXZmNaNE9Sdm1VamFwbmlod0d1RV93aQ?oc=5",
+      "published_at": "2024-04-11T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "14ea8ca49a4ed0eb48a4",
+      "company": "HL만도",
+      "title": "한국전파진흥협회-HL만도&HL클레무브-현대엔지비, 모빌리티 SW 인력양성 위한 교육생 모집 - Queen 이코노미퀸",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52bV9XOWpyeHU4U0d4WFdUaFpNelhzNjVvMzNDbTY0VVRtZnQ0aGEtZWJ4cUh6MGtScGZ6aVJIQ0hUdkFLbWRWNy1raVlYMmRvMHpjanVpNmZPVDJuUm9heGVZRkxFUll0TFE?oc=5",
+      "published_at": "2024-10-23T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "8f34d043cdd051ff86c2",
+      "company": "HL만도",
+      "title": "HL만도·HL클레무브, CES 2023서 미래 제품 공개 - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94MkJCVml4YURlOVo4aUxUVVNrWVJPNkxkdHVVZm5vTkU4TmFfT2tlUDR5bmpVbFEzMEEyT3RoTE1VWUVNZW8xNlBneFA4MWJLTWkyTDFn?oc=5",
+      "published_at": "2022-12-30T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "a55b598c3e1b0d60e792",
+      "company": "LG전자",
+      "title": "피지컬 AI 시대: 온디바이스,로봇,임베디드 직무 지도 - 브런치",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBiTzlTWjFHdmRyLXF0RXJXUEpvWUlVa2NsTktVUUQ3dGpWVWRpTTFGTnlwaFNUYlFxQlk0UjIybFBhZzJFNUhV?oc=5",
+      "published_at": "2026-08-04T04:09:17+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "2b057de39a737d11a3bd",
+      "company": "LG전자",
+      "title": "'자율주행·IoT 기반' 임베디드SW 경진대회…우수팀 채용혜택 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90ZWg0TmE2Q2gyRFVsWG9IUnB3NklzNU1sZTVkUGx3emo4dmxDd000dmpWX1hyaUZWMmZnd2x5bUV3V0ZhbU5fRFExR24tUnpDUUNYTEZmeXVqRDDSAWBBVV95cUxNZDZOc1RxVURzUU52QWVKUmJEMEppTDFycjIzb0E0R0pvMXo4QWQ5MVB5a3pZRmJjbDBfTlBwWkZyenc5U2xzVmVVakx4ZkFfd2t0WDdFbXRHTC1nWkR2STU?oc=5",
+      "published_at": "2019-12-12T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "193008d5f1b2b7052a66",
+      "company": "LG전자",
+      "title": "LG전자 '난공불락' 일본 시장 공략에 진심 - 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PRzhWRWh5NnJsc1VKRnA5UjlZWkpYSnItNTktcml0RGZhaGI4bkNlekF0ZFdmNi1qY1ItamVqTWFsZjdZMmtfYTNfckxVeDRrY1HSAVNBVV95cUxOeE9TcXZubkY1OVZ5OXgzOEgybnRtV0U4RFViSW5DZTlHZTM4NmhpWGk3cHZ2dWhUT1NQSEdHdmRHaWNnenFVd3VYTHdiX1UxdTQwcw?oc=5",
+      "published_at": "2025-07-23T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "042adb4ba7a81db37ebc",
+      "company": "LG전자",
+      "title": "‘제18회 임베디드소프트웨어 경진대회’ 온라인 시상식 성료 - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zVWFQZzdPTGJKLV9mY2FRbVZIY0UtbWhoOVpUcWZ6M05LWVczX3hxX1E3UjBCaWR3Ty1nSUROLW9wZDFCbzF1OXlqR085bVJCeVpPMXI4dE9Vel9ONGhGR0FQejNlQjVn?oc=5",
+      "published_at": "2021-02-10T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "3b73623e9f5de695dcbc",
+      "company": "LG전자",
+      "title": "LG전자, MCU 등 차량용 반도체 개발 본격화 - 블로터",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wdXNaRXZZT0NDQzZVZXdkQnBpX2xmeDBtT21hdVdLYVdjRXFGb3gtbEdCZVlYOUhYQnZsN3ZuOWtOZmZuLXVSd1E0WnRBeHRCYU5pVkhIc3YxRnBIVl8tZTlMOGhtbEHSAWtBVV95cUxPaU5MWmZmVFE0QWZkMlpvdjJDT0xGZmxIWUdFbU5La3NHai1TLTFIUGUwXzVHa2ZGb2M2aGRBeV9uNHFvYTZnV0NZR3ZmRTNJS2hNWUM3VDhONE1VZkU1Rm1NekxFbGRZQWROdw?oc=5",
+      "published_at": "2022-05-05T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "cd113b62084dda1f8da0",
+      "company": "LG전자",
+      "title": "산자부 장관 임베디드SW 대상에 한림대 '주차의 민족' - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tamwybUQyVnZ1VmE5clpLN0lZZENjZDM0NlVzcmY5VlQtd2wyeUxVaURuU3dqanNjSVFHSm9FRUlFdlBWY0Jxa01UV2RiZFgtRTlKeUtR?oc=5",
+      "published_at": "2020-12-23T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "9b39872a5eb734e82b79",
+      "company": "LG전자",
+      "title": "LG전자, ‘임베디드SW경진대회’서 차량용 인포테인먼트 아이디어 찾는다. - 스타트업엔(StartupN)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96cl9qeks5ZXg1M3JGZ1hkdmVwWVVfWmJScXU2Z0tQVG4yOGN2N25PRUFHd3ltSkNveXlKRTdJWXNGa0JxWV92c19QSFl1Qnk5UnFlMjcxcTRHdFZ2Nm9nRVVsY0hDNnfSAWtBVV95cUxQcEVOb19abUptdXlqZUZydnpUUlBlUWRQVFdfclVxVmFLb2dqZGZvUW5vajRRRWZqTDR4RXAyakF5VWFlN3plQXlVS2VIc1NtTXZSd3RxdG1NTWx0Y2JQUHVzMFRzaHVnMmxsVQ?oc=5",
+      "published_at": "2020-05-25T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "6bd6b0d89b82eae863e2",
+      "company": "LG전자",
+      "title": "KT and LG Electronics Successfully Transmit Images via Quantum Secure Direct Communication - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43TGUycjJVYWx1Rl94ZTJpX3RTMjh6MTVTMU9ZeWVtRnFJdVRnWnByREpBTEk4ZFNSMkx5azREM1lIbElKYThlTlotVWt6MUYzdGJqNmdlZUZrQnByOXpsOQ?oc=5",
+      "published_at": "2026-11-20T01:07:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "852b690e559b0ec49735",
+      "company": "LG전자",
+      "title": "[지식사회를 선도하는 인재양성 대학]숭실대학교 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aVmRINTB4NEg0UlRWand6dWltc0RjRnFhaFRCWUI2VjhZaDBZS00yZzRRbEwtb2xON290QWtmclRPcFNuN192cEVkaHRXQQ?oc=5",
+      "published_at": "2014-12-18T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "69472cf321413f9ad41e",
+      "company": "LG전자",
+      "title": "​ST, NPU 가속 STM32 MCU 출시...엣지 AI 성능 지원 - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JTVcxdjNBQWthNTJ1RktobUR3ZVlnYmw3dmZINWVVQTg3LU5TcU9pa2ZNRnFVaXd1Vm50YjRMQUdtMlk4WFBCcWFiRlp5TUU2TjN3WlJ3?oc=5",
+      "published_at": "2024-12-13T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "788a9f9461561c3556c6",
+      "company": "에스엘",
+      "title": "경북대-에스엘, AI·빅데이터 우수 인재양성 맞손…SL 채용예정자 'KDT AI·빅데이터 부트 캠프'의 성공적 운영 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VR2ltZVQ5V3ctWDl3eWV3VWxKZ24xbFlMcHJ2QktBSnFHbHZNTGIyUzREeWZSMmVQYzRWQjRUMW1iY3o5cjlfVWZuZUV0QQ?oc=5",
+      "published_at": "2025-09-02T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "23b362f1d94b8474561a",
+      "company": "에스엘",
+      "title": "[교육뉴스] 텔레칩스 채용연계 ‘임베디드 스쿨’ 3기 개설...수료자 전원 서류전형 면제 후 면접 진행 - 아웃소싱타임스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DS3BQVDBSd0F6azlnSkVERWlOR21NaUc3VU9kNTFSSU1wcU5JMjRFSDVIdWRoSURkSFRlenlDYkVZeE1GdDNacE93bm5XYkxUczBsVHNjQjFfRnFhRFhPRDlCelFzcERVRmZyRTVlalV5UQ?oc=5",
+      "published_at": "2025-07-15T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "2f7fb3d37ca4b918a80c",
+      "company": "뷰웍스",
+      "title": "뷰웍스, 신입사원 공개 채용...22일까지 서류접수 - 팜이데일리",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sY25sWmFUTkJCYURBVE1rVWpfNVB2QjN6YklzWFZoV3ZzNUl6bEZNT3JZSHN2bkN2TjVSZlVtTUF0bndaOGJKUE9lRFM3UlVYdDVDZzY4U1FZTkdaQVlOUFJEUlZSM292OEg0a2pR?oc=5",
+      "published_at": "2023-09-04T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "71edab6b4f7d9aafcacd",
+      "company": "뷰웍스",
+      "title": "뷰웍스, 13년 연속 신입사원 공개 채용 - 의학신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PbV8yQXlzbmt3eGpwTTV5d1k0RzNKcEpnaXVGUS13QXVQWXVKQlRtVmM3bk5Yd1diQ1Y0TjJkeXFoVW84LWpDbHBBOVFITVVjRUFjeWxFWmYxcW5iRGlzOEk4ajZIS2txdnJV?oc=5",
+      "published_at": "2026-09-01T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "2bb9d2ba50aee04d292e",
+      "company": "뷰웍스",
+      "title": "뷰웍스, '2020 대졸 신입 사원' 공개 채용 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MWUFQQXdlMHJ3MXJBZzYyM2l5TFFzZVJDX0lFNTJnMm42dW1aSVIwbl8tWjlPWEVlbFlkT2NmRm5VTFdBZDhORS1DU1JCcUZoNkZzTW05YnNuNlJY?oc=5",
+      "published_at": "2019-09-09T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "e795a34849ec284ae13d",
+      "company": "뷰웍스",
+      "title": "뷰웍스, 오는 23일부터 ‘2020 대졸 신입 사원’ 공개 채용 시작 - 서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoV0dETWN5ckxRMkJ1bnlZN2JHcDVhRzJEUWhBUEtVWHBYTXhnck1BMDRvdUtUaU82MWpuelFDSGtwNGZQZWhtbVZsa1JXWjZrTGx3OUxpdDBaT0hBd1Q5NjQtRG8?oc=5",
+      "published_at": "2019-09-09T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "d1009d96012060695f8f",
+      "company": "뷰웍스",
+      "title": "뷰웍스, '2027년도 대졸 신입사원' 공개 채용…R&D·영업마케팅·품질보증·생산 등 4개 부문, 13개 직무 모집 - 헬스비즈",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yVzV0emo1VjB4ZU81YW1zY0dDN2xGaGUwdkRBMmRsV1hTTU54aS0xemFoQWh2OUtTT2lTenpiVnZHeFJydm1JQUpRWVRzVzFfS0MxbUU0M2pkVFVMN1NGZ1A0Z1B2cDJHMTlOVE9B?oc=5",
+      "published_at": "2026-09-01T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "1431779cd8f98069797c",
+      "company": "삼성전자",
+      "title": "LIG D&A, 방산 임베디드SW 인재 양성…'The SSEN 스쿨' 5기 모집 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wUjZ3M196NjZkbjRDREJ3RFFCaHFSU01oZE9mVzIzNy1yVkszVVNFeVFDb0JncVVEUE9mUHFqc2VRNlFMX1I4X040RlhUZm5fR2d0aHNkYU5JVS1f?oc=5",
+      "published_at": "2026-09-16T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "e565881ab0610a70cd4b",
+      "company": "삼성전자",
+      "title": "반도체 인재 쟁탈전…샌디스크, 한국 엔지니어 채용 - 시사저널",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Cd0tDQWFDZ1ZhU3JSZDlxWk85N01xUE00czNxbWZzcHlXZ29nallJYnlpZmN5dXhKVi1IM1BXM2VNYklBT0ItWGZ2eGRKb2dNLV9wNmMxRzNXaXRBb2p5OXU1SXNsVEdKRG9tbnl1TdIBc0FVX3lxTFBTaXFjLXlVWW5YWTItQzFMdjh1WWFoSEpadW55VmJyWndPMjNReTNjRFRIb2RYS21zOUowalVaVGR2Q3FRTVVDM3VqdzhOTS1UajE4WllGUERMQ0VQNFlLMElnX2pTOFRZWl9rc0pyZEtSRFU?oc=5",
+      "published_at": "2026-09-13T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "0a09453a146f606ddee1",
+      "company": "삼성전자",
+      "title": "피지컬 AI 시대: 온디바이스,로봇,임베디드 직무 지도 - 브런치",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBiTzlTWjFHdmRyLXF0RXJXUEpvWUlVa2NsTktVUUQ3dGpWVWRpTTFGTnlwaFNUYlFxQlk0UjIybFBhZzJFNUhV?oc=5",
+      "published_at": "2026-08-04T04:09:17+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "5b877af10e4304b1fc07",
+      "company": "삼성전자",
+      "title": "ST, 삼성 파운드리 손잡고 고성능 MCU 시장 확대 나서 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4TFZVNHVNV1BuektRRmtwT2RkT2U2WFZQcERGeTlmR1JyZEN3Qmw5LUVrTXJaem1KTl9KNzZmWml5U0pYV2t2T01FbnVFb0tWRG9GcWp3?oc=5",
+      "published_at": "2025-12-04T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "2d78897958dd4c9fd1ac",
+      "company": "삼성전자",
+      "title": "\"AI 반도체 설계 역량 높이자\" 삼성, 인도서 인재확보 나서 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KSlBrUlRTbTF3VkRja2IxQzF4REhPYU9ZdmItV3E5ck1QUGs0d1JvaVI0YzBMQUxpVmotdzdoOWgxRHJKZHdIZnVQMVhCSk8wSTY4ZnZn?oc=5",
+      "published_at": "2025-10-13T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "bd90dd04969733ba603b",
+      "company": "삼성전자",
+      "title": "수익성 증명한 파두, '인재채용 확대' 성장 시계 빨라진다 - 녹색경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83aTJGemxZSnRiWTdwT1pfMkd5dDVFR2hqc0tGdk1sVFJNVll0MllOWV9YVjRuLUpwbXhwNGQ0NGxpM051RHNvdm9GVS1xOC13M0ZTWF9sdTlPaGR6d1hYMThpbGQ1cUpo?oc=5",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "7b6cff765eb41d4ecef2",
+      "company": "삼성전자",
+      "title": "“마이스터고 졸업생에게도 열린 기회” AI 시대의 SW 개발자 키우는 SSAFY 13기 모집 – 삼성전자 뉴스룸 - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNMF9hUkJBcGthQThtQ1gwVE41S2NFVHc5YTlPLVR5UUc0NmtabmxsdnFWeXdaNFpLbHpkUFFFM2hOakxSQmtTWEJKNEwwdVFIdWY3Zl9MUEZidzFSaGw3cjRWN0FSczZkNVBXLTMtN2FzU2c1WnhiWVE4ZnFmbEpEdm84ZVg3VGVUOGJlY0hJZTlQVDVUQzZjRVFHSVM2OTY2b1JjQ2NjWXRCU2lWTkVDMGdkbnpFNTlHV1V2NkRZZjdWYVNVbFpMbU9CUmZoQXAtTzJOWDVwQVNZV0dGSTFJWW5nRU5SZG85THB1OHItOXNocDhqcFBsRUtMczhCenBHVHN3SFcwLWV3SkJXdV9JTWtMUWhlZEJOS1BfMi1YRVZncWgyUTFFQ2hTVmdoWWY3Z012Qg?oc=5",
+      "published_at": "2024-10-07T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "5d827e2f3efdffe34528",
+      "company": "삼성전자",
+      "title": "\"기업 실데이터로 만들고 기기에서 바로 실행한다\"… 성균관대 AI CAMPUS, 임베디드&온디바이스 AI 실무양성과정 교육생 모집 - 데브타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NNFNSMWtaUzZfX2lUeUxTLWswR1dFcFZoTkRhWk04NXRwdzhFVDF0S2U4LWQtLWZIbnhDQnIyZUdYTU9NZTFxZEoxblozeXc?oc=5",
+      "published_at": "2026-11-16T02:14:02+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "ccbcb482a07ef9d65895",
+      "company": "삼성전자",
+      "title": "삼성, 인도서 ‘AI 반도체 인재 전쟁’ 가세…SoC·메모리 설계 핵심 인력 대거 채용 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvWUN3Umc4YW1XbW5YbU9pTnhFVlpIY1NWYUFka3RvOFEwVU1OV2NwSm9iYkF6SXlSZ0MwX2FmM3pUWXFDUGZqeXBrYUZWc1NVV1BXSzR3?oc=5",
+      "published_at": "2025-10-13T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "526150638999b98b8e21",
+      "company": "삼성전자",
+      "title": "“AI 인재로 도약할 기회” 청년 SW∙AI 인재 키우는 SSAFY 15기 모집 – 삼성전자 뉴스룸 - samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQR0hobkpySEtzR0lZSkhkWmNZMWkzNTRVNDFHX1VxYTgwSWxETUhSYzRFQU8xMXNxTE1PMFZDSXJ0SmRYa3ZMbXMwZnFNbFBkTDZSTld5dll3Um0xZnhFc2xMeERaODRIMFdLUnRTdTBNOGgwS1dZMklmY2FpRFM3UEl1M1RJNE01c21TazlldGJTUWdvU092QVZvUDBMQWVQMWlXNTlYeTB1Ym9ZNlFBQ3RNRjFOdEFCX3JKV1NfaFhuUEg2ak1oaEVOXzNhb1JWMTdKRFlDTFB1aEJmVXlicnI4d0FGME42VmwtVkFIeWR1cHo4bkdrWDVhdjl3WGY5RkRheWg4c0JFdGIyZUlxSHNHV3piRVBGbHhuWUZ3ajZwdFppQnpVVkFjaw?oc=5",
+      "published_at": "2025-10-13T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "c2ce1f961ecacb078e8a",
+      "company": "삼성전자",
+      "title": "미지리서치, 임베디드리눅스 삼성 스마트폰에 공급 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XWUlkOUFreXBBQno1QUhrR1BEa3haRWhUUDVPWDl6N2tlNW10eWVta09ySGxNQVFoc2pvOHhiWnZmVnRZUXVEcHhRYw?oc=5",
+      "published_at": "2006-07-28T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "767e3fe6c74ea27e8bd0",
+      "company": "한화시스템",
+      "title": "한화시스템·EDGE, UAE 통합대공망 구축 합의서 체결 - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnNGxfWFc0LTdoNkdwQnp4YS1rZjVYT0NoMnV3U090cXdxTTk1S1MtMHFHR2tYRHRlMjVZbWFBS05WWFU3YW04dExmUjRLZXdJRDZkRHd3?oc=5",
+      "published_at": "2026-09-17T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "68990da6e8df381f1de9",
+      "company": "한화시스템",
+      "title": "한화시스템, `UAM·저궤도 위성통신` 부문 대규모 채용 나선다 - 에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UV0w3eEFDdkNZaUZhaDJfOXlNa0d1TW1PUlg1ZHA1WS15TC1JUnV5eEhsbTdXbEJ0enR2cWNneENaT1V6b1EySkUtMHRxOE1HMWNtcVA2WE1KWW8?oc=5",
+      "published_at": "2021-08-24T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "7123862e15f6442fbcdd",
+      "company": "한화시스템",
+      "title": "한화시스템, 신사업 부문 연말까지 100여 명의 경력사원 채용 - 아웃소싱타임스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kTE14SkVmOEU3S1N5MzhIYjdxUXpXMXdxVmZpSXRFQVFzNXBCRDdva3pjeFhrdy1fWG1VcV9PYTJLUGxZS3laWnNNX2oxZVdCc0tPaGFkdzFfQXF6RVFfNWlPM0R0b0NXOENDei1XcE4?oc=5",
+      "published_at": "2021-08-25T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "1224200338ea5a584e36",
+      "company": "한화시스템",
+      "title": "피지컬 AI 시대: 온디바이스,로봇,임베디드 직무 지도 - 브런치",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBiTzlTWjFHdmRyLXF0RXJXUEpvWUlVa2NsTktVUUQ3dGpWVWRpTTFGTnlwaFNUYlFxQlk0UjIybFBhZzJFNUhV?oc=5",
+      "published_at": "2026-08-04T04:09:17+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "6d784ed8d72d0b7f0fc8",
+      "company": "한화시스템",
+      "title": "한화시스템, 위성분야 신사업 부문 및 방산분야 인공지능 등 대규모 채용 나선다 - 인공지능신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CNHllLUQ3Si1pdWQtWm5XQzVzbVUxS25sYnVCN3lwU0lUeUI4Y1F4emplS1FnUkVXZWp6M0JSUVE0dDNBUjZDLWJUcWMxWjQzMWszV2NQWUJ5MnlVLUFOVTVVY3VubVU?oc=5",
+      "published_at": "2021-08-24T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "cba3af03e9df7dc8c31d",
+      "company": "한화시스템",
+      "title": "LIG D&A·한국전파진흥협회, 'The SSEN 임베디드SW 스쿨 4기' 교육생 모집 - 이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5b25BN3g1c0dCOUZOOGpqdXU2dHN5RkllRU90U1U2emFxTWd0YWQ3TUstM2FJd2R5LUhCZGRLWEhnSzV5X2ZDMkd6czlIUy1tcFRycw?oc=5",
+      "published_at": "2026-04-06T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "0052ac41365efa091594",
+      "company": "한화시스템",
+      "title": "한화시스템, UAM·저궤도위성통신 등 신사업 부문 대규모 채용 - 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42WTdGZU9aYjZrOEdYUU5hX3dUVFhmTWtWTEJoRzBZRWdBWlhySFh4TU1rMndiRTNlWHV4WUliMjFXdDBKc2dHQURXWGUzc2hMd3ZIRWFQd04yUEhWS1FCYmlB?oc=5",
+      "published_at": "2021-08-24T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "a7a1576bc3fc3c37273c",
+      "company": "한화시스템",
+      "title": "한화시스템, 경력직 대거 채용…UAM·저궤도 위성통신 개발 인력 - 정보통신신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YNHo0V2JMMW5oZnk5ZzBXNkw0NUczRHJuTnRqcjZLWFNtZG5BVlgxbTJHVmJxV3c1UDQtRHc3bEJldC1FZ0FLQ2tsZF9aU3I4N3VxZUhKOEJtNDZkR3paVzA4TkxUVUHSAWtBVV95cUxOZVNpT0NvS3RpR1FsbEM4TDJQMFo2Skk3TDRaOUxtRHhzNk56WF9LaUttLTNuZ3MtRDlFbzBwR3VjaFRrT3JLOEtOdDlkSlpQbFVDRDVzMHB5UEEyVjFHTC1NWGM3Z29BZk5FQQ?oc=5",
+      "published_at": "2021-08-24T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "714f49f4472ef2ae9971",
+      "company": "한화시스템",
+      "title": "KAI, 유럽 ASL과 위성 사업 협력... HD건설기계, 홍콩 굴착기 45대 수주 외[시경Today-방산·건설기계] - 시장경제신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnQXZOd2prTlJQZHFiLU04cXNnVVkxbU1ieEl4RFdCMlk1VVdTVGdlUVg5aHdXNThUYnpoVkFyY2VSUFd5UFNubUxMY1RXdjJpTUlJRldzWmFhSDBtbGFqaXQzMm85bTAtdHNtUHQ3dng?oc=5",
+      "published_at": "2026-09-16T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "8d3df2b3aab6c4cee4b3",
+      "company": "한화시스템",
+      "title": "한화시스템, 콕핏형 통합함교체계 IBS 국산화 개발 수주 - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZVkxlN1k0WGt6NjdnQTdLVGtfSkloVG94Nk9aLWFQczNFRzBKckczWWwydnlETFZobTRSbG5acmdfU2EyZ0RSNVVmRTNzd09sbWViVHZB?oc=5",
+      "published_at": "2026-11-02T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "34b51936eec2d80ba996",
+      "company": "코텍",
+      "title": "산업용 컴퓨터 제조업체 '보스코텍', 창업 20년 노하우 기반 '우수 중기 도약 준비' - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jY1M5MWJVN1ZTMkNYakFYMVQyT1drZHhzZ0g0MTNGdTF6OTdzNm9qQWNKOW5YVmhZZVE4SGlvU0dPUGludDlBUGdPS1MyLUtHRGhpdTRWOXp3Zw?oc=5",
+      "published_at": "2021-11-23T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "54634693a9958ce1547d",
+      "company": "현대모비스",
+      "title": "포티투닷, 자율주행 분야 경력 개발자 채용 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTDBVY0d2b1NDWEJwaGdJeEtWWUE5M3ZvMXNjdVRtdG8wVXhHZkJxZ20yNFNlTEdsYUV1OThKNl9VS0oyQnFFZ1RveW9IeEVrU0UwcnVXTktGMTV0c25qLTFUa09wWmxMbXhLWENaNkdhY0k1cFRpc183WGh4OHdoRVlMNUk1SkFfSG9kRkNCMVNFRU0?oc=5",
+      "published_at": "2026-01-27T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "329cfc4ebcc043707a96",
+      "company": "현대모비스",
+      "title": "\"인재 채용도 창의적으로\"…현대모비스, 대학생 SW 해커톤 개최 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UZS1VQkcxWWVad0V2WHFVUUZIM0FYeGhzaXRYa1o1ZUFoNEExVnJPVUlFN2pMTDZ6ZXhVaVQzd3cwajF6QUNtOHh1SE10Sm5TY1I1N2RKOGpBQQ?oc=5",
+      "published_at": "2024-02-27T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "b936364af46a6d9542c6",
+      "company": "현대모비스",
+      "title": "현대모비스, 채용연계형 소프트웨어 교육생 모집 - 조선비즈 - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kQTBjU1ZQdXhndmF0Y2toeHZNU3prUGFGc2I3SExZb3lBeFp1VldteGlZSV9KYlEyVHhieC04Nm9pSVF5SjhkVGVZSFpsSDVjQ0t6Q3Rna0VXY21QS3EwTEtIY2pEU0twRldaNTQ3RVBBWms5bV94ekEtMjlCcVnSAZMBQVVfeXFMUEtoOG02NWZyLS1pUTBmTEdud2I1QTA3S3I5NnhvZGtXUHYyV1QzbzVfdUllLW04Q2YzREM0WTZHRDlZVGpyZVhTWnY0SkRyNGl5UEpuaUY0TUpLUTNVUHJIY0hmQm1SYlRCWkMzSmtyZnFGeXJjdmdlNUtERHVnX21OanFfS0ZpVUlNYldCVGlvN0pN?oc=5",
+      "published_at": "2021-12-22T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "6c2e87e68296aba1c59e",
+      "company": "현대모비스",
+      "title": "현대모비스, 일반인 SW 대회 개최…“소프트웨어 고수 모십니다” - 서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rRzc5NHgwMVpZN1dkWFB4U1RsQjhYMEVyekN5WkRkTUtsWWhreGVEVlhPSEhxbHg4dURDR2M1eVk1SEtnNkExVzlPVElQNks5MVlqN3J4dnVCd1FJMnRseS1LZGo?oc=5",
+      "published_at": "2024-06-05T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "0fff2aaee31b80224b3f",
+      "company": "현대모비스",
+      "title": "현대모비스 SW아카데미 모집··· \"학력·전공 묻지 않고 오직 실력만\" - 서울파이낸스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlMml4UjRCZGdmZ09lalViWl9TU0ladl9MRTlZdzJjVmE3MDJqeWdSSkRCdGlRMXBHWEtPVjExZGJHc2pIX3FPeEQ1ZjVYMkRvTVZOU1hXdGctMi1HV21HanV1UDIxNHUybVE?oc=5",
+      "published_at": "2021-12-22T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "29365ef7eb996274e541",
+      "company": "현대모비스",
+      "title": "\"학력·전공 무관\" 현대모비스, 채용 연계형 SW 교육생 모집 - www.ebn.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03dGhFS0JIbHpFdjJMdGVsSERXU1lkOHEyb0NLNnVheFJyQm9OaDV0dGtqeGRuNjBSekR2QnNNNU9WQndJcllJQ1Q1X2hBYk83SGlPTkJRcjl6dHBsRXVTbExWcl84d1Vm?oc=5",
+      "published_at": "2021-12-22T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "3de3e62dfb406c566a5f",
+      "company": "현대모비스",
+      "title": "현대모비스, 알고리즘 경진대회 개최…\"숨은 SW 인재 발굴\" - 파이낸셜신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WOWl2b1dmUTVFUTVPbHZYZ0FqWUZSMjFyM18yd3UxS2tpd3NpMjFOd2kwSnhNanFwOVVfM2oycy1rX0xXSks0YWY0RnFzdXhYMWFDT1dUa29UOHF2SDdsLS12Z1hmV0NUNTk4?oc=5",
+      "published_at": "2023-06-16T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "5d3d7df1bc6d8144b63c",
+      "company": "현대모비스",
+      "title": "현대모비스, 대학생 ‘SW 해커톤 대회’ 개최 : 네이버 블로그 - 블로그",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIQTlTeWU2Y0I0UTJPYVRVVzJkMUFMc0s2QTJOWk5zeFNMWDRudlZ6VWJEajVCdURxOVNmTU5YbF82Q3Q5RGFLNndwdVMyUk14V0dUYzgyTmEtSmVyUEc4aEhRSFo?oc=5",
+      "published_at": "2024-02-27T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "efb463c85bc071920401",
+      "company": "현대모비스",
+      "title": "현대차그룹, 청년 직무역량 강화 교육 프로그램 HINT 1기 참가자 모집 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTy1Gd1E4VV9ycWo0dmtmUW00NzFJZEpQT2k3Y1RyaFRmM2VPYTR2bzNUVTV3OFRWWnl5Z2RRa0EtYWFhbzNJN1ppRWRIWnJlZ1d1MUt3ME85Vl9BVGxucU9XanFBdXBhbXZxMXNqS0JEZHJLbUtwVVNXeGhlbXJBcjZLQlFuNXRHVHI2QzFIbEFvb0Jw?oc=5",
+      "published_at": "2026-06-15T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "ce917d30e736db4352d9",
+      "company": "현대모비스",
+      "title": "산자부 장관 임베디드SW 대상에 한림대 '주차의 민족' - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tamwybUQyVnZ1VmE5clpLN0lZZENjZDM0NlVzcmY5VlQtd2wyeUxVaURuU3dqanNjSVFHSm9FRUlFdlBWY0Jxa01UV2RiZFgtRTlKeUtR?oc=5",
+      "published_at": "2020-12-23T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "5bcafac0ae600eb5a80b",
+      "company": "현대자동차",
+      "title": "현대차그룹, 청년 직무역량 강화 교육 프로그램 HINT 1기 참가자 모집 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTy1Gd1E4VV9ycWo0dmtmUW00NzFJZEpQT2k3Y1RyaFRmM2VPYTR2bzNUVTV3OFRWWnl5Z2RRa0EtYWFhbzNJN1ppRWRIWnJlZ1d1MUt3ME85Vl9BVGxucU9XanFBdXBhbXZxMXNqS0JEZHJLbUtwVVNXeGhlbXJBcjZLQlFuNXRHVHI2QzFIbEFvb0Jw?oc=5",
+      "published_at": "2026-06-15T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "7cac100e468706fea8a5",
+      "company": "현대자동차",
+      "title": "현대차그룹, 청년 대상 ‘HINT’ 1기 모집…임베디드 AI·제조 지능화 교육 - 인더뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MSjNJVFMyNEpiSzdJSHFzR1JySkJNSjVTbTVMRHNfUklYeFhnb2ttaDhIMkFWQ2JkaTdhTjhuQWdOZ0lsYzRTU1BJTGFXdWhSVDNhUkZKS2kxRWt1aUJVQVBGMEk?oc=5",
+      "published_at": "2026-06-15T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "5e01f285863fc8415570",
+      "company": "현대자동차",
+      "title": "[교육뉴스] ‘현대오토에버 모빌리티 SW 스쿨 – 임베디드 4기’ 교육생 모집 - 아웃소싱타임스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XYlRtMnpiYnA3V2I5czNFN1prdjlxR0pqVkdjcy1rUTBDblFrTzRvaXNnZU1EOWNNajU2YjhvM1ZEM21VSGl5dk5JTkpvSTNMTy1rNjlqbjhSbHFoMVpCblBwUng5Zk9YUlZydUFsM3U5dw?oc=5",
+      "published_at": "2024-10-31T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "bd5c2710644945c88e40",
+      "company": "현대자동차",
+      "title": "포티투닷, 자율주행 분야 경력 개발자 채용 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTDBVY0d2b1NDWEJwaGdJeEtWWUE5M3ZvMXNjdVRtdG8wVXhHZkJxZ20yNFNlTEdsYUV1OThKNl9VS0oyQnFFZ1RveW9IeEVrU0UwcnVXTktGMTV0c25qLTFUa09wWmxMbXhLWENaNkdhY0k1cFRpc183WGh4OHdoRVlMNUk1SkFfSG9kRkNCMVNFRU0?oc=5",
+      "published_at": "2026-01-27T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "3575eeeb8e0907a9f87a",
+      "company": "현대자동차",
+      "title": "‘현대오토에버 모빌리티 임베디드 SW스쿨’ 2기 교육생 모집 - AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5dVBqOXNCVnR0RDl4LXNCMFRzRThTY3hNeWxlcFNZUnBpZWJTbEhRcVg1TERKR3Z4N0ZSLWhnb0ZWZFdoSUpMSzV4RG9xMXBqZlZaYTVhaGt2RVoyREExS0tLb2VrLU5pY3c?oc=5",
+      "published_at": "2023-10-26T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "0ea7cd42864b25ad4746",
+      "company": "현대자동차",
+      "title": "'자율주행·IoT 기반' 임베디드SW 경진대회…우수팀 채용혜택 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90ZWg0TmE2Q2gyRFVsWG9IUnB3NklzNU1sZTVkUGx3emo4dmxDd000dmpWX1hyaUZWMmZnd2x5bUV3V0ZhbU5fRFExR24tUnpDUUNYTEZmeXVqRDDSAWBBVV95cUxNZDZOc1RxVURzUU52QWVKUmJEMEppTDFycjIzb0E0R0pvMXo4QWQ5MVB5a3pZRmJjbDBfTlBwWkZyenc5U2xzVmVVakx4ZkFfd2t0WDdFbXRHTC1nWkR2STU?oc=5",
+      "published_at": "2019-12-12T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "bedb691b976524101526",
+      "company": "현대자동차",
+      "title": "한국전파진흥협회, 현대오토에버 모빌리티 SW 스쿨 임베디드 4기 교육생 모집 - www.eduplusnews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6Wno5TDBrbVBsNXhHQXprdzl0bFV5ajExS3pOdjlIZ3ExcERsN2Y0VWxUQUFOZ09ZcVF1eHhyUnA0SktFcDNKT1NwZy1nTUMtYUxRZWVKSFhKeF9zZENqdWJNLUNzNVh3UjhDSHp3?oc=5",
+      "published_at": "2024-10-31T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "fae1cfb319a714610dd2",
+      "company": "현대자동차",
+      "title": "RAPA, ‘현대오토에버 모빌리티 임베디드 SW스쿨’ 2기 교육생 모집 - 정보통신신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Rcm5USWtDZlB1c1NmOGxFZ3ViLTZJYUZjX1dEb1ZXU0l3RmZkdXdXZUpNZkNQMU9KWjlMUVc4OHBBVDR5bWRpUGZPb3RQRF8ydUlwSEdtVTR2OFNDeFh5Y0V6TkZqYUV20gFsQVVfeXFMTTJwd0ZnWUVndWRuQTdyc051QV94WjVFVDJFZEcwZ2lTeDRkSms0a2V0X1cxNFlJdzNpY1dWaUtEY1hTdmx4U2VsTmRfaENmZmJjQjExUTd0UTJUWGplT1ZNZDlJUWZBbE9tM2pk?oc=5",
+      "published_at": "2023-10-26T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "74ff518ba5a6b33fa853",
+      "company": "현대자동차",
+      "title": "현대오토에버, 차량 소프트웨어 개발자 직접 양성해 채용한다 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jQ1hxU1dsbjlJX2Q4a05mV1BadVVHM2lZakt2MGNoUXZYdHg4cThqc2NDbmkzUXZ1TjdfN0FFSml1d1JoNk5sck1YQ0lKREUtcHV1cndFWUYzNGY1Nm5sNk9WUFRZMFowMmJEY3B5cw?oc=5",
+      "published_at": "2023-04-12T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "7fd321889039bf06a6a9",
+      "company": "세메스",
+      "title": "초임계 장비發 세메스·TEL·DNS 3社 판세 - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IT2h4REZ6WkJfSDE3Z1EzQ01LVFI3UTNLSTlHM3Z1SE5SZndTN3FteEFZZWkwYjBKRFdHM01ZV0EzNEtFc3VydEZhNE9sOTd4V1ZQOGln?oc=5",
+      "published_at": "2023-02-28T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "64a291e3228bfd669e3a",
+      "company": "SK하이닉스",
+      "title": "LIG D&A, 방산 임베디드SW 인재 양성…'The SSEN 스쿨' 5기 모집 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wUjZ3M196NjZkbjRDREJ3RFFCaHFSU01oZE9mVzIzNy1yVkszVVNFeVFDb0JncVVEUE9mUHFqc2VRNlFMX1I4X040RlhUZm5fR2d0aHNkYU5JVS1f?oc=5",
+      "published_at": "2026-09-16T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "6447041a5b005fa73d26",
+      "company": "SK하이닉스",
+      "title": "반도체 인재 쟁탈전…샌디스크, 한국 엔지니어 채용 - 시사저널",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Cd0tDQWFDZ1ZhU3JSZDlxWk85N01xUE00czNxbWZzcHlXZ29nallJYnlpZmN5dXhKVi1IM1BXM2VNYklBT0ItWGZ2eGRKb2dNLV9wNmMxRzNXaXRBb2p5OXU1SXNsVEdKRG9tbnl1TdIBc0FVX3lxTFBTaXFjLXlVWW5YWTItQzFMdjh1WWFoSEpadW55VmJyWndPMjNReTNjRFRIb2RYS21zOUowalVaVGR2Q3FRTVVDM3VqdzhOTS1UajE4WllGUERMQ0VQNFlLMElnX2pTOFRZWl9rc0pyZEtSRFU?oc=5",
+      "published_at": "2026-09-13T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "11d167d6c01a4ce7483d",
+      "company": "SK하이닉스",
+      "title": "[SK하이닉스 앰버서더 JOB로그 7편] 고객의 무대에서 완벽을 증명하다, 최적의 성능을 책임지는 ‘AE’ - SK hynix",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wcnk0R2dXLXczdVB2SmkzUzF6azRBV3RwMTFHTVQxdDBOcVA1dmtxWXREYUZzWnNBN3RGTVBOTHJ3UlltOFAtLTY4RTlFMnlmZ3JBdzVMNWRaMUwwOFA0?oc=5",
+      "published_at": "2025-11-18T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "87e46e3f8055534408d8",
+      "company": "SK하이닉스",
+      "title": "SK하이닉스, 美서 AI·공장 셋업 인력 채용…\"메모리 인재 확보전\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vUkNYVEVSYXRCa3FfdlU5M1ZTS256d0JGb2tRbk9pSWtLbFNDNmM1WE9CYUZ2eHFNMGp3ek5TYnNVN3JXR00yT3BvMTZpMUdHdDRVYmJrN2hwTXhCdXpYNHNOLVhVSC1ZQVNuaW9jZlVkeU80UXNvddIBeEFVX3lxTE9vUkNYVEVSYXRCa3FfdlU5M1ZTS256d0JGb2tRbk9pSWtLbFNDNmM1WE9CYUZ2eHFNMGp3ek5TYnNVN3JXR00yT3BvMTZpMUdHdDRVYmJrN2hwTXhCdXpYNHNOLVhVSC1ZQVNuaW9jZlVkeU80UXNvdQ?oc=5",
+      "published_at": "2026-07-21T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "3a93089e21af9523091a",
+      "company": "SK하이닉스",
+      "title": "샌디스크, 한국 엔지니어 채용…낸드로 번진 반도체 인재 쟁탈전 - 매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PWjBxa2pXeDZvbWVPMU1sS2ZvdkNQVmxudWN6WUhuTW41R0NxY1NrUkVjZy13bEZVRE94eVo5eHkwUjdwUWJvN29Vc3BsUzh4RlE?oc=5",
+      "published_at": "2026-09-13T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "794a94ab240039870d79",
+      "company": "SK하이닉스",
+      "title": "샌디스크, 韓서 낸드 엔지니어 채용…반도체 인재 확보전 가열 - 마켓인",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3SHRNWGItOGl5bHpVbU1XaG5fakNfVHFfQTQtSGdpU09EVGVaV2dzdzJJb2tXTFQ5MmVKVXhqaU5hVDBxYzg3RE9NNl9iTDFhUG8tZ29KN2F2bnRFay0zUVZ1Sjl3a2paTnhYT0d1NmNULUU?oc=5",
+      "published_at": "2026-09-13T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "97a41a7da3048a95ca0c",
+      "company": "SK하이닉스",
+      "title": "수익성 증명한 파두, '인재채용 확대' 성장 시계 빨라진다 - 녹색경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83aTJGemxZSnRiWTdwT1pfMkd5dDVFR2hqc0tGdk1sVFJNVll0MllOWV9YVjRuLUpwbXhwNGQ0NGxpM051RHNvdm9GVS1xOC13M0ZTWF9sdTlPaGR6d1hYMThpbGQ1cUpo?oc=5",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "62497c0cdf4c9ba42506",
+      "company": "SK하이닉스",
+      "title": "SK하이닉스, 美서도 60명 신규 채용. AI 메모리 사업 확장 - 엠투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVT1Y3UjVkc0VBbGYwc3RQSmM3WlRLdTlwb0ljM29HVzRUYkthWDBVNmZ4bE01LTBrUHdKdEtTVG5TSjA1RnZKSjVKMEJCSW9FVUZlSTI4aXFWZkltRGNKSUtyamJla09QTTIyYXhNVQ?oc=5",
+      "published_at": "2026-07-22T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "84fdd70ab128e017a4b8",
+      "company": "SK하이닉스",
+      "title": "SK하이닉스·미코세라믹스, CVD 장비용 고온 히터 ‘맞손’ - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zSlM4REptZUczYzhwYUFvOUlrWHJFcmR5bnA4OGo1bkVINFJ2bVB4bWFoN3ZDbTViZnQxRmVhU3lEWWZPdkNTb01pNktNd0JuWi1Fc0tB?oc=5",
+      "published_at": "2021-04-28T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "c012993623220f4ae9ab",
+      "company": "SK하이닉스",
+      "title": "SW전공자는 SK하이닉스에서 어떤 일을 할까? - SK hynix",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oRlJCeG1NV21GVmFxenhEdE9yQmhWWGt1d2stTlFWQ0hZVU1wVUFHbGlNcFFPckp2OW1xQU1WNzBHUFN2dnBDTzg5TGQ3T1pMMTR4N2FDbENoOVFH?oc=5",
+      "published_at": "2017-12-21T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "43b20bfc1ff549725c52",
+      "company": "SK하이닉스",
+      "title": "SK하이닉스, 128단 4D 낸드 기반 테라바이트급 고용량 솔루션 엔지니어링 샘플 출하 - SK hynix",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wYldQLUpCMGMyNTVLQ1F6YXNETmxEZzJ3MWktbVlsMFRDdXg5WDFuVlFYZldMeFpOS3lPcUFDWjdEbmdLbXVKYkdhZFprX3hYVzlpZ05ITGkxN2tVSkZrUQ?oc=5",
+      "published_at": "2019-11-20T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "45f13df822f291b47db8",
+      "company": "LIG넥스원",
+      "title": "LIG D&A·한국전파진흥협회, 'The SSEN 임베디드SW 스쿨 4기' 교육생 모집 - 이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5b25BN3g1c0dCOUZOOGpqdXU2dHN5RkllRU90U1U2emFxTWd0YWQ3TUstM2FJd2R5LUhCZGRLWEhnSzV5X2ZDMkd6czlIUy1tcFRycw?oc=5",
+      "published_at": "2026-04-06T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "df931a3212a5974fbe95",
+      "company": "LIG넥스원",
+      "title": "LIG넥스원, 'The SSEN 임베디드SW 스쿨 2기' 수료·특별 채용 발표 - 퍼블릭뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CaGptcGpHTUM4WkdiaDFoTlJ6Z0xjREowZTl2SzE2YWczeW4zRFdVQ2pnLTNIOC1LcjAwSWZhWklIVTFKb2FYRlh5bEVkUmNVdERhM1p1ZHBpRXdjN2hlamZfSG8xbjNaMFE?oc=5",
+      "published_at": "2025-12-01T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "e26adfd49938a0e9c5d2",
+      "company": "LIG넥스원",
+      "title": "LIG넥스원, 임베디드SW 스쿨 2기 수료식 개최⋯ 방산 인재 양성 박차 - 브릿지경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PUk5wUExQcTlJYl80NEpGb2ZZNlRPZEV4bV9LaVZNX0VfNnRZbUN6bXNpazF2OE5aMElGM0NjdWtreTlVdHRMM1pZd1RycGdqaXIwOV9tZTRFdw?oc=5",
+      "published_at": "2025-12-01T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "f071ac870ed6403a7471",
+      "company": "LIG넥스원",
+      "title": "LIG넥스원, 'The SSEN 임베디드SW 스쿨 2기' 수료식 개최 - 뉴스드림",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RdE5qNDJuRXNiQk5jR0EwcWhBZHRnazk4X2ZHb19WZy1lVnNpc0VYSlZFQlZiZXZWRXhTSnNIdGo3Mi1UdnFhY182bGMyUVBBX2FhY2x5TXN6ZDNBT1RKVWR1eG1xUklFcHfSAW5BVV95cUxORWxDNFh5UDlUcFNOZmxicXhlWnhISnh2eDkwMDRGVWtPVWhoU2Y2amhLMnBWVGtwalBsSUx2aEltY3Z5c3lfSWhDU1p6QlNVd3RpMmhsYV9zUVFTVC1IZGE0YUppdW5aMzNjaF96UQ?oc=5",
+      "published_at": "2025-12-01T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "4ef9d039d591b7b4c96d",
+      "company": "LIG넥스원",
+      "title": "LIG넥스원, 임베디드SW스쿨 3기 모집…현장형 인재 양성 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5ZjFWalVvR1JRcFI3WUI2VzRNMGhucks5dnlHMlgyUmxWakxBUV9mb2lvWFJjeGNkbU84WkptUzlQUU05ODNlSFdYcElMUjdteGFhZzVySk1mZXd1X2dKY0tPUFU?oc=5",
+      "published_at": "2025-10-23T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "f640bea1094cad17c890",
+      "company": "LIG넥스원",
+      "title": "LIG넥스원, 'The SSEN 임베디드SW 스쿨 2기' 수료식 개최 - 시사캐스트",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EejdGS3RhWXBYTG5reU1zbUlJeXppV1RpelpyX01RalpnaldRUkN5djZDQnV1Y1U1ZEpTVDdRNWdXZ1FBa29uVkMtcnh6LWd6NGI2aDlEbnJxSDVDNk9SclpaSld5UUU?oc=5",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "53ea58712c8a513104ba",
+      "company": "LIG넥스원",
+      "title": "LIG넥스원·전파진흥協, ‘The SSEN 임베디드SW 스쿨 2기’ 수료식 개최 - 뉴스로드",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83cEdfcTlfTUgyNGlrMklyMnB1WW9vTXZNaE9HNWhueWNtUDVsanBwb2I2VHlqSGNTVDlETDdxWXdPV1FhRGJtRjU4d1JLUVBaQTBCU1MtcnRWMDkyMnhsQlVpYVhhcXNXeG5N0gFvQVVfeXFMTXp0Vl9QNC1EWXUzb0J6engtSlNtLU0tenZVNVVtQ0JwWkN6aXRPSnFOR1IwczhpZlpzMEdsOF91RTVJV2dybjFCQTJ1TFlVREJBOERfdER6cWNBTk1YUEhwMmZOeGJVMHRZbWJhc1Vr?oc=5",
+      "published_at": "2025-12-01T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "40f0796339d365e26984",
+      "company": "LIG넥스원",
+      "title": "LIG넥스원, '임베디드SW 스쿨 1기' 교육생 모집 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpbGtKaFdsM05GVWF4d1B4RGdtMndiSTVnXzZOQkpLZkhfcWMyV2RVQlRiTXBZMjNVb1VnS1poSXFoajMtWHJkdmFsbHRIMWJPSnNPYVJ3?oc=5",
+      "published_at": "2024-11-18T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "d223e6a4f6c5d94fdf34",
+      "company": "LIG넥스원",
+      "title": "LIG넥스원-한국전파진흥협회, ‘The SSEN 임베디드SW 스쿨 2기’ 수료식 개최 - 직썰",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGZ2hwVGk3Y2RSN0dQa2loYjd6alI5emduYl9fUkNUN3ZKcVZ3SHlXbm1yU3RqdEVpS2VaTVZCSWVWV2tjMkRqRlF6cGdGUFBnVWJWTS1FMDVXZ2hFMnFkWEFLc09HUVEx0gFsQVVfeXFMTkl5b0k3cFFkSnotLVpRSmtKUk5KVDUwMk1kM25tcl9USU5WMFFqa1R5eXFzcUlCR055OXotUE9GSFB1LW51QlZiU0xkeUwzdGd5QjhZVk9oUkV6dXNxc0ZWcU9nTy0wM2steVFB?oc=5",
+      "published_at": "2025-12-01T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "0fde74d226f5db5955fd",
+      "company": "LIG넥스원",
+      "title": "LIG넥스원, 방산 '임베디드SW 스쿨 1기' 교육생 모집 - 굿모닝충청",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KVlZaSUIweFRmTmRQenFWSkxWdUFYdTlhLXdDX1lROV9zaFlwWDFfUllWNS1BUXA1ZUViWGdIRzZ0VksyekRXOVZiOEd4bFRrZXZpNGdlVF9PNy1NMHBtT21MclRXT2ZTRkJ5aW8yTE1PZw?oc=5",
+      "published_at": "2024-11-19T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "2d6ed4ae2a22ac99c43e",
+      "company": "LIG넥스원",
+      "title": "LIG넥스원, '방산 SW' 인력 수강생 모집...채용 연계 검토 - SPN 서울평양뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNR0FNckFPLXBxdDFXcjl5ckVYcGhycjMxYzJuSlRNdC1wYW5VMnd1d1ZSQm5Ecm1qWE54Tk5qLU45QVl0aXk4akdXbkNUbU9NMVhhNURudkNUY3NaSkZXRnBZdjZaZkZMaFE?oc=5",
+      "published_at": "2024-11-18T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "ab6ce03f17e38748f784",
+      "company": "LIG넥스원",
+      "title": "LIG넥스원, 전파진흥협회와 ‘임베디드SW 스쿨 2기’ 수료식 - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPN1FtTkQxYURXODRpbDd4LTJ0aE9paHI0R0lyU3otVmEyTHRFU1c1dk9MSUJoT3JOVXZmM0hkcW01MkhNNzdKZG1yWjlGbVotTkpWRnVpMmtDTlFTRE1OVE5zaDhCaWhGWFJOUVF1YXZVdkZJQ1VMLVhJdDJZVUFCR2pqR1VNRlJKMFRlR0hMZ0x0LWRfUGJyVENkTmM1ZEdoN3pONjlKRlJTLVhWaHFmT19nc2pLX3dKY1ZJNlFRd3oyMHdrWFNZdEcxNXFnMnl1WDlraGR1SFJ4eFdoRVZlVXBQejg2VmtQaUg4WHdxdVBmSXRfQlp5MTNDU291dkpZelBJQm9VZmlGd2dUaVE?oc=5",
+      "published_at": "2025-12-01T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "7995cd1c800e05078980",
+      "company": "LIG넥스원",
+      "title": "LIG넥스원, 방산 소프트웨어 인재 양성 나선다 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NQ1R6ekhiWUNUcm9CVE94RTg0ZHNyT2xNTkx0UnByTnV3WXBFQ2sxSE5tU0JmZTBnNkZjVEl6SjZ4OEdCYWFON3J0amx2a25mR1VvNC1MZVZHaXpS?oc=5",
+      "published_at": "2024-11-18T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "f45a79ea6ecc7d5a4d20",
+      "company": "LIG넥스원",
+      "title": "LIG넥스원, '임베디드 SW 스쿨 1기' 교육생 모집 - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRa1BvSlBmSGVqdmJuOXNzeVhVRFZsMHgzdWFwRTA1Z0EwWk9KMnAtRE40WGpORXVPTk9RbE1xNHhLRlJ0NHNNWGxoWDRldk82a0ZPMzJ4YmlxUQ?oc=5",
+      "published_at": "2024-11-18T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "86977a30708cddea0b6a",
+      "company": "LIG넥스원",
+      "title": "LIG넥스원, 전파협회와 '임베디드SW 스쿨 1기' 교육생 모집 - 민주신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzenV3Qi16UkdRVzU0UWpueWx4Z21VUE9xSFNZeTJjeXZvT2VqX2R2eW91Y2VRUWpqVmlfdkRCR1NoT094WkdQaGxPWl9UeHRYZUd0bFZuUnNLV2xFeGpfUF8wal9yUjDSAWtBVV95cUxOWWd3NkZYVV9pMnBZTzh3TWhyUWo0cDA5SkJWSFJvdlVUcUJXT0pVRDBqVFlmVFNpd1RMa2t6TUFRNlh6OFlTNEpidWJPbjcwcVRvUThCYmM4OXVfQ1pubXZDVVNrdEp3cjZrSQ?oc=5",
+      "published_at": "2024-11-18T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "acb2c810402462b0258b",
+      "company": "LIG넥스원",
+      "title": "LIG넥스원, 방위산업 SW 전문인력 양성…교육 프로그램 수료식 - 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DWjBvdFB5aE16a2JLQ2ZSejUxSnhYNHJUWnJRRF9mQWUtTjJROU1mRWowUzZTQlpyZUZOQmhzdTNrQ2VmQjZoWE1aa0FVQzBoUDZhR2NIX1hiZ9IBVEFVX3lxTE9nMGJldEVzbzdtMGtlS3Y3ZUJYZGN3Y0kwVVVFTEt3Rmw0Z2MzeEprSUJYUlJ1TDhmZ0dhUjlING0xc3IzMENKZWlrajBObVc5d01vbA?oc=5",
+      "published_at": "2025-07-03T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "61f6704a725ef5551c04",
+      "company": "LIG넥스원",
+      "title": "LIG넥스원-한국전파진흥협회, ‘임베디드SW 스쿨 1기’교육생 모집 - 더퍼블릭",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43R1dqamVVbG5CTUxiU283UEFOWWY5QS1EZGFKeDh3X3g3U0hCMlhEOVFjd0hVdEprS1A5UVYwLVF5V1pGZUZydXNRbHc3bk8wSzB1dW1YYUswekxRazFYLWthMUFPZU1PemRj0gFvQVVfeXFMTXVXVDFJdk5RMHZXVEE2eEJMdTI5T2RpejI0bVh1a3NvWmVvMnlEdUFkSDZDb3lqWVdBMTRSRS1yb2NtdkNkQzFyc1MzYjVjUjVOVmFWc2dTYXlMc1FzQVVOcVBhU0R6SEowcGR4Wm1F?oc=5",
+      "published_at": "2024-11-18T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "911428415452f4ea8e7b",
+      "company": "LIG넥스원",
+      "title": "LIG넥스원-전파진흥협회, 임베디드SW 스쿨 2기 교육생 모집 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XM0xYSFh5MzZUOXZPU195WnBMN0xnTWFvUkFKaWYyM2pIaUVELXltbzhYdjdpT2Y4MmxSdGtOZm5NQTNRcW5pYVV3SnR0azlRVHZZbmF3?oc=5",
+      "published_at": "2025-04-02T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "cc08881ba695d4483a42",
+      "company": "LIG넥스원",
+      "title": "LIG넥스원-한국전파진흥협회,'임베디드SW 스쿨 3기' 교육생 모집 - 이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUUVdadExjZFVUVTVmV3c4dVk1Z1pyOUo3MXg0VkZqRXVxUjdmekdveVJyVklidXAyc00tYXozdGpkTFdUYUl3MHVoczZhZWNZWlV1OA?oc=5",
+      "published_at": "2025-10-23T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "b32b85cf6b0e7e356f09",
+      "company": "LIG넥스원",
+      "title": "LIG넥스원, 시큐리티플랫폼과 국방 AI·무인체계 보안 협력 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mdzNPRmZBWTVzMkZFanlJWktKemh0T2JFeXI4Q3ZOS3EyeGk4ci1xNXVid1dUbFo1SEtlM3pCQUpETEp0UEswUF9WTXNvS0R0SVFsWnV3?oc=5",
+      "published_at": "2025-04-16T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "0c15ebee1ede491b1750",
+      "company": "슈프리마",
+      "title": "에이피알·KLA코리아·동화약품 등 주요 기업 채용 나서 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03NUFKNHB6MF9wNEZMOElEODUtZHRhWlRiMWI1djdrUEhUb010eUJGZXRhay1wRkdoeWlJbGdlTHVaWjZLTFctXzliVUFub25DVkhsbWZn?oc=5",
+      "published_at": "2026-11-17T06:14:01+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "effaeb1662bb96f9d0fd",
+      "company": "슈프리마",
+      "title": "에이피알·KLA코리아·동화약품 등 주요 기업 신입·경력 채용 - 비욘드포스트",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXSHUtTFZSVUFlbXY0R3NtT2FCWWg0SFVlc0FzMXk3TE83Vm5qOHQ2a1BLczFqMG1ENk8xSzFQdFotTHJ3VTRockRieFNSS2kwck1NcXBhNzNVT1ZmSXB1c3pyVW1uLTQzaFpSdl9DQjdMTlY4QVNHazNOU00?oc=5",
+      "published_at": "2026-11-16T23:45:19+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "1e0fe9c4be3361350f42",
+      "company": "슈프리마",
+      "title": "슈프리마, 초고속 지문인식 모듈 ‘SFM6000’ 출시 - 보안뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rYUxKVGswdkFFMm5sbm9TZFROdnp2WE1nQXdWYUNEdUVBbGVzUkRfZFB3R25JRWtGWTI5SWlfSGd0MG5POVFjMFNOQ3RnUnVtOU9JUHd2ZGNEVGhqQXNiUkQ2V2dQWDJiYXc?oc=5",
+      "published_at": "2017-01-25T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "d46f8c4ebd34bf101376",
+      "company": "슈프리마",
+      "title": "마케팅∙엔지니어 채용 이어진다…진학사 캐치, 11월 셋째 주 채용정보 공개 - 한국면세뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpd3BwRngtVTJ1RTN3Nl9zemY4dExielg5NkEzRndGd0p1a3EwLVA1Q1ZKQVFzYV90OGZiRl9FV0FlOWlPMjdBTW1WZlRmVDBrNWJxRTZQQnlCTkxOVk1VS0l0MFFZNzZzT2c?oc=5",
+      "published_at": "2026-11-16T23:44:56+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "997377c80fbb328ef240",
+      "company": "한화에어로스페이스",
+      "title": "[시경Today-방산·우주항공] 한화에어로스페이스, \"항공엔진 자립이 방산 경쟁력\" 외 - 시장경제신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzZjFWVWJDakR2SEE1Rmp4RTJ6OXUzZVNmRnJsaWg1Z045VzNGRnJMZ3FqUEFXb3RrYnNqSEVnQVdOWU5KNE93VlMtUkdoZFB4czJ2anFTNlFTbkJmaC11VFdXM2YtMkFsc2puZVZpSTE?oc=5",
+      "published_at": "2026-04-06T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "927239f2de6474d569d7",
+      "company": "한화에어로스페이스",
+      "title": "LIG D&A 특채 가능 'The SSEN 임베디드SW 스쿨 4기' 교육생 모집 - 뉴시안",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFRl81d3YyT0pndkpiaFNtNjBQbDhNVmIzOU1NVGRGVTlrTVo2WGJPSXJOd19LcEZXd2JDemU0a0EzVjhHaW82U0k0a0txOURpQ0o5WE1fTVNDMkR3bG1iejdxNXJDc09WeUxB?oc=5",
+      "published_at": "2026-04-06T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "991ba7a5d6127d6d769a",
+      "company": "한화에어로스페이스",
+      "title": "LIG D&A, 채용 연계 ‘방산 임베디드SW 스쿨 5기’ 교육생 모집…총 30명 선발 - 동아일보",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZWGNEcFM4VW9tV05USHpKRkVNWWJMZFp1WmxtQmtfOER1TW1SOGllZ3ppM1BsSkR6NlVReTkwUkxsLVRHcWFPeS14cmNSTWZ4dGR1SzdpUUVMSFJYRHVUUzgtellqTFgwX095QjYtdldmMUtqMEHSAWZBVV95cUxOZTdDUFp1WEQyQkpGcUMzWDNxNmZHcXhwWml4Q2RXY25jNnpkY1k3QjVHLVl6R0k5eXVkSkltNFQwSmlDcC14SEtuWVpxSk9sOWQxZlpwcmpDenlTV1owYllhNm8wZHc?oc=5",
+      "published_at": "2026-09-16T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "eafe86269192a1902feb",
+      "company": "한화에어로스페이스",
+      "title": "재료연·한화에어로, 과학축제서 항공 엔진 소재 기술 공개 - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yUV81XzNUVmVsTExObi1YOVQ5cHJ3UWoweWFEQXRuQy1wNWxSUEVXdWdtcVJMT3RZS1BPeEFGTElwbTQzSExraHhFU194N2s5OVFIaldn?oc=5",
+      "published_at": "2026-04-30T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "08425592f7ff2b45f943",
+      "company": "한화에어로스페이스",
+      "title": "재사용 발사체·메탄엔진·위성…K-방산 4사, ‘우주 먹거리’ 확대 - 스트레이트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HUjNTcXAyeUNpbWhhZE5pS2twMlM0bHdCeFpZUHVnZ0dkRjdTcWZGdkZ4UEVlYmFEWEpvTDJBX296TV82c0p1bzRXdTE2WmVsb0ROb29tRGl2U1l1QWl3ZVJnY2NwM2NGcFRKdU5hbjg0eknSAXdBVV95cUxNSkh5em81VWozMDgybDNRdHJCMThNUm9BdnNXcTAxMkdtWnpHSnozYkMtdU1jRlViYmtlLWstR1lJd1BXSmlTQ2RoRmNCbEFud01CWU1pR0Z2cDE5VDJ0dVBoclRKT2Z0cmlrVmU3Z1dfTXRuOEVHRQ?oc=5",
+      "published_at": "2026-10-05T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "982a7404bd8b38bc581d",
+      "company": "한화에어로스페이스",
+      "title": "LIG D&A, K-방산 공급망 보안 강화…민관 상생체계 구축 - fetv.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VWkc4Y0tFcTVEOG1wb3VQY0RHeFBrU0dlWU9HWmR4YUltNGtaLVNKelJPd3IzamtmZ2psLXRUaXI5OVo3bUYzcWJqSmlEQ0ttYk5IQUE5RGtfLTloanZtNXctZU1KaHJo?oc=5",
+      "published_at": "2026-09-18T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "af401e33a096958a211f",
+      "company": "한화에어로스페이스",
+      "title": "한화·LIG·현대로템, ADD 인재에 ‘러브콜’…방산기업 취업심사 8건 중 5건 통과 - 이코노미사이언스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BWnl3Rk1xY2dZNzdQM1RaVHNjeUpDeGlvRWdlRkFWd0d6RlQ0aWFPd3RBU2pVMGtJcmRJZG1YOURUd0FEaFhhaTZlYXFPUUo1SWt5aVpmRG1lbVBqN1BuRUhxNlRJY1FWXzN1eTh6aw?oc=5",
+      "published_at": "2026-09-02T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "43e308db3f71ddbd699c",
+      "company": "한화에어로스페이스",
+      "title": "KAI, 유럽 ASL과 위성 사업 협력... HD건설기계, 홍콩 굴착기 45대 수주 외[시경Today-방산·건설기계] - 시장경제신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnQXZOd2prTlJQZHFiLU04cXNnVVkxbU1ieEl4RFdCMlk1VVdTVGdlUVg5aHdXNThUYnpoVkFyY2VSUFd5UFNubUxMY1RXdjJpTUlJRldzWmFhSDBtbGFqaXQzMm85bTAtdHNtUHQ3dng?oc=5",
+      "published_at": "2026-09-16T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "92a5887e1c93c6bbc64b",
+      "company": "한화에어로스페이스",
+      "title": "하니웰 에어로스페이스 - 디펜스투데이",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KQ2FGZHpuRHRkeFFjNU9GeEU0MndVdFZwNTVSSjRfOEVSa19OSUNETS1aeWFxaG02M3NXMjN4WUJISUh0cDZTS3pfMzFMLWpaY1NCMFVDMDFxczkyQ0plV3k5dGJZM3hyZjYw?oc=5",
+      "published_at": "2019-12-21T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "423c990c88367b81e5c2",
+      "company": "현대오토에버",
+      "title": "현대오토에버, 차량 소프트웨어 개발자 직접 양성해 채용한다 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jQ1hxU1dsbjlJX2Q4a05mV1BadVVHM2lZakt2MGNoUXZYdHg4cThqc2NDbmkzUXZ1TjdfN0FFSml1d1JoNk5sck1YQ0lKREUtcHV1cndFWUYzNGY1Nm5sNk9WUFRZMFowMmJEY3B5cw?oc=5",
+      "published_at": "2023-04-12T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "4471cb8179037e91e702",
+      "company": "현대오토에버",
+      "title": "[교육뉴스] ‘현대오토에버 모빌리티 SW 스쿨 – 임베디드 4기’ 교육생 모집 - 아웃소싱타임스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XYlRtMnpiYnA3V2I5czNFN1prdjlxR0pqVkdjcy1rUTBDblFrTzRvaXNnZU1EOWNNajU2YjhvM1ZEM21VSGl5dk5JTkpvSTNMTy1rNjlqbjhSbHFoMVpCblBwUng5Zk9YUlZydUFsM3U5dw?oc=5",
+      "published_at": "2024-10-31T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "b3e228d0ef102e06f65c",
+      "company": "현대오토에버",
+      "title": "현대오토에버, 신입·경력 채용…모빌리티 SW 전문 교육도 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBURUE2SVE2SkQ0Q3BJRnlVRWs0Z0ljNU4xMXdqQ1BnSDVaeE01U1JBaFVQajVZWGR2TVZhT2FIQWl4YU1reXJOaXVXQzFiTTRySVNZYlVRNWpuQ0HSAWBBVV95cUxQOEY2ajlLb0JRRVEyVkNyakl2ZXJIYkdEcS1pT2JhdHZQczVuMDM4NTVGVzNKeTdHakRpcTBJSnJGSnI1Q2xCVjlCcjRXOHpZTmNuMDRZY1FCQzlRWlpsdlg?oc=5",
+      "published_at": "2023-04-12T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "2a04634ef6c5a8a97c4f",
+      "company": "현대오토에버",
+      "title": "디지털전환(DX) 인력 양성 채용연계형 교육 ‘현대오토에버 모빌리티 SW 스쿨’ 개소 - 에너지데일리",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pSk5IV3p6enV0MHllZV9VZExPa2ltejBqWm54SE5XNDhVRTM5UFB6TnJTU1RtSjl5bU5WVEtvazJXTUNJaHd6elJFcnU1bk5GdGpkVXExMm11N0Zmd25RRXZUbTBZb05qQ3FVSV95OTNfZw?oc=5",
+      "published_at": "2024-06-18T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "49ce9575e88f58dca985",
+      "company": "현대오토에버",
+      "title": "‘현대오토에버 모빌리티 임베디드 SW스쿨’ 2기 교육생 모집 - AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5dVBqOXNCVnR0RDl4LXNCMFRzRThTY3hNeWxlcFNZUnBpZWJTbEhRcVg1TERKR3Z4N0ZSLWhnb0ZWZFdoSUpMSzV4RG9xMXBqZlZaYTVhaGt2RVoyREExS0tLb2VrLU5pY3c?oc=5",
+      "published_at": "2023-10-26T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "fbbd3fdd51654d19761e",
+      "company": "현대오토에버",
+      "title": "RAPA, ‘현대오토에버 모빌리티 임베디드 SW스쿨’ 2기 교육생 모집 - 정보통신신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Rcm5USWtDZlB1c1NmOGxFZ3ViLTZJYUZjX1dEb1ZXU0l3RmZkdXdXZUpNZkNQMU9KWjlMUVc4OHBBVDR5bWRpUGZPb3RQRF8ydUlwSEdtVTR2OFNDeFh5Y0V6TkZqYUV20gFsQVVfeXFMTTJwd0ZnWUVndWRuQTdyc051QV94WjVFVDJFZEcwZ2lTeDRkSms0a2V0X1cxNFlJdzNpY1dWaUtEY1hTdmx4U2VsTmRfaENmZmJjQjExUTd0UTJUWGplT1ZNZDlJUWZBbE9tM2pk?oc=5",
+      "published_at": "2023-10-26T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "970e20b5a2f48b3f2494",
+      "company": "현대오토에버",
+      "title": "[에듀플러스]한국전파진흥협회, 현대오토에버 모빌리티 SW 스쿨 임베디드 4기 교육생 모집 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50bkNDVGd6VDJ2NWlnMnpuQTBlRkdtRDM5VHNEZ25OVUZ1WDlzRUM1R1pyODU2MEZnNnNmb0JERzZkdGJSczNhUkl0QU9jZw?oc=5",
+      "published_at": "2024-10-31T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "1757a329b783e6f1e04c",
+      "company": "현대오토에버",
+      "title": "한국전파진흥협회, 현대오토에버 모빌리티 SW 스쿨 임베디드 4기 교육생 모집 - www.eduplusnews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6Wno5TDBrbVBsNXhHQXprdzl0bFV5ajExS3pOdjlIZ3ExcERsN2Y0VWxUQUFOZ09ZcVF1eHhyUnA0SktFcDNKT1NwZy1nTUMtYUxRZWVKSFhKeF9zZENqdWJNLUNzNVh3UjhDSHp3?oc=5",
+      "published_at": "2024-10-31T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "97fc7d4f23300e2387e9",
+      "company": "현대오토에버",
+      "title": "한국전파진흥협회, 채용연계형 ‘현대오토에버 모빌리티 SW 스쿨’ 개소 - 아이티데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xQkIwS3lCS2plY09pSFF1N3JaNUNRakoxYXNpZUlxbWRBblktZjRVdER5Wlo5d0VYYWxXUE8zSGM0QVJMV045cmFXOVoxWm85OWtibURLYnhvWXVEZFVmTFR3R3pBNlk?oc=5",
+      "published_at": "2024-06-18T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "8a84b19572526cd63f33",
+      "company": "현대오토에버",
+      "title": "현대오토에버, ‘채용 연계’ 디지털 전환(DX) 인력 양성 나섰다 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nS1VSNEprSUpuSzZaYmlEVlk0blk2THVsc1BHRV9vRXJGdEZROTM3eTVmUExzRzYwVjBnNERjVjFkemZBcGNXalRZLXZtdw?oc=5",
+      "published_at": "2024-06-18T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "3386294ff94e6149d7e1",
+      "company": "현대오토에버",
+      "title": "RAPA, ‘현대오토에버 모빌리티 SW 스쿨’ 개소…DX 인력 양성 위한 채용연계형 교육 - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02SHdwT3lxZWx4MmZhZ08tRmJUaWdzckZsLTVZOGhhZ3NHWTVGWFZybGtBNjhRdDd6QjJ3RmlOZ3lJMzdKWW1oQmt2bDlZTXliSTNQTGJndDJITFhITUFzS2xkaHJCMGlf?oc=5",
+      "published_at": "2024-06-18T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "93947eab9d33f3d704a6",
+      "company": "현대오토에버",
+      "title": "현대오토에버, DX·SW 인재 모은다…\"대규모 인력채용\" - 비즈워치",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80R2RWNmRxck9Ya3Qxd1cyM3ZZMnhIcGhpUFZ0N2hlV0NsT0FHeDVLLXVqVUNkMXM0ak5RUGZGMUtJZl9uUGxLQ1VXTGgtWVp0TUhGdXdyelBXZDZiNGYtb3JRVGpoYjFQV1E?oc=5",
+      "published_at": "2023-04-12T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "acf5b6e59859174a9ea9",
+      "company": "현대오토에버",
+      "title": "현대오토에버, 올해도 대규모 개발 인력 채용 - 한국아이닷컴",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IRkhUOGh5Qm1DVGN5UjAxeVZJWUJCQ3R3ai1ZZjlBZHdObnRzU0VxTzZrY2dEcDFLWldURVc1M0x5R0s5R09HYWxKQ1U3LXZlckNjdzctZlBEZFZvR1dtZlpPR2NIQWZCT2fSAW5BVV95cUxOUEVhRkhZRi1QbXQ1S3FtWmtZdUllbWhZei11TVpfRHRNVnpuZi1BMl8tcnhlbGhyV1ZOcDV5QzRpQ0NWOTFYSXJSalk3WmFVOUNva3NOWGxKVkYzQjlyc0dHQ1NXbHVKWmdyMlNqQQ?oc=5",
+      "published_at": "2023-04-12T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "3e9fd8e0d032137deae6",
+      "company": "현대오토에버",
+      "title": "[취업뉴스] 현대오토에버, 3년 간 2300여 명 채용… 올해도 본격 채용 시작 - 아웃소싱타임스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JMmhKWDBCcnduOTk3Nld0b0tsVHlWMFo5WkRwZURpdFVJMlpxNE1GNUxsTjNPZlNiOGhuOUJzWXRqajdWYVA3OXpPWWplWVRzVDJsVEI4MGNXaFg1cVNQUFdZS3ZvMzhEeFM4UW84V0Y?oc=5",
+      "published_at": "2024-01-18T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "9018b5b1b358d28d6586",
+      "company": "현대오토에버",
+      "title": "한국전파진흥협회, ‘현대오토에버 모빌리티 SW 스쿨’ 교육생 모집 - 에듀플러스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xM3RuUWhEN0s2RVV5OGk2UzlIS0pFUllaV19wWXZlRE5UVlFHTXQ1N2pUVEg3SHRZTFVqU1BFRklWQjMxdXlVSDJkcE1oWTJEaEhaMXF5Z1JCS3lRWDJ3dlJuVEJXV2RpQ3BMR0Nn0gFyQVVfeXFMT2d0eW5ET29meFdWbGE5RnpvekFtUFR4SWxfeWlZaVQ5bjF1by1TcnJRS0F2RUFhVGt0RnZkUkg5NDBhdUtRMzJ0WGRVcWczQjF0aGd3cWpJTzg0eC1CazZxOEJSczRyRDZkZXZxelMybXBB?oc=5",
+      "published_at": "2024-06-18T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "eeb4e8b768f320a8ec68",
+      "company": "현대오토에버",
+      "title": "전파진흥협회, 모빌리티 전문인력 양성 ‘현대오토에버 SW스쿨’ 개설 - AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1Nnota0dta1l3bkUxYTJzejY2UlVNeUdMXzczYjZUdFhQa3J3MTIwSWI4dkNGaUpsMmMyNWM5U0xBVDhUQ2p6ekxOaGRHU1lNeGhMYnMtY2JjZC1YajJzMWNfWXdlT0ZSNUE?oc=5",
+      "published_at": "2023-04-25T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "aefaf1f49f3af4dbfc7c",
+      "company": "현대오토에버",
+      "title": "한국전파진흥협회-현대오토에버-현대엔지비, ‘현대오토에버 모빌리티 임베디드 SW스쿨’ 개설 - 스타트업엔(StartupN)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RVlYxNjFDSk53MXptN2ZhNWIzZUl6dDJmZzQydzlxSHItX1dtaF9nNk45S3k1QVFBVWdOTXgwZjlrdnExOGVkR1VDVFc2OWtzeFNWOFYtejdtLTRMYXJtVU1uOXBIWExi0gFsQVVfeXFMTVlGZFVmV2RvVWNDR2dLQVlSOEdmNFl0TVcyMUh4S1ZtanNKbHFvcHlrUmhkM20zXzY3MEthOWRMb0VaT1BiNXlIYXdRcEhrWjlSbmFmNFpFck0tcnZpVC1YMnBwbUk1N2hXdkhW?oc=5",
+      "published_at": "2023-04-25T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "2c9a7ad5fe7642f5e978",
+      "company": "현대오토에버",
+      "title": "한국전파진흥협회, SW인력양성 위한 ‘현대오토에버 모빌리티 임베디드 SW스쿨’ 개소 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwZExyTGhiQkNVNUdRYkJIQVExYmZlVEw4NDgtTUZsNUwyanltVjN1RVl2YkxIUUVWMUZhUmpHVDV0enRHaTd0cGxfV0RCd1BJTWRvelgtcFpOa3h0YUlwckdyOHEtcU5kb3FraXVfbkxkeGc?oc=5",
+      "published_at": "2023-04-25T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "1fcf990f67ecb3181229",
+      "company": "파두",
+      "title": "파두, 신입·경력 신규 인재 채용… AI 반도체 영토 확장 박차 - 오피니언뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OaXBBZXZZZmlhTElmN3hjTHVHS1NUVU9FTFFJWlpQNFFzc0gzMkxheFNfaEwwSFNkVjcwbGgyUWxnelBrUDR6T2RXNVl3dnA2Z24yRDRjbGdBSEZ6MGkzY2JmWGFkRjIwM0l4OTg2dmVlZw?oc=5",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "e866325425e74315abcc",
+      "company": "파두",
+      "title": "파두, 시스템 반도체 분야 두 자릿수 채용 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zQ1FDTVVlYW5kXzg0U21zR3BLTkQtWUZqdFVVYk44SUlQejBqLVFxZDhCY0tHOUtEb01fbTZtQi1mcy14REhWNXFqSHNYQXd3T1ZWbC1n?oc=5",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "97a952c650a0656717a0",
+      "company": "파두",
+      "title": "파두, 주니어 탤런트 채용 개시…\"SSD 컨트롤러 미래 기술 이끌 인재 찾는다\" - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RV3JydUpZVG9mY3gwY0RobGl5TExkQWd6ejhMQUtuYjU4LThib1AzZUdsTWNWZEhuYllmQlU5emtLcDNIcmw2OU5obHlCSlBtVnZudWVOVGZDM0RjVThocVpYMDJwOXA3?oc=5",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "b9f8c2e79f6c60ecb110",
+      "company": "파두",
+      "title": "수익성 증명한 파두, '인재채용 확대' 성장 시계 빨라진다 - 녹색경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83aTJGemxZSnRiWTdwT1pfMkd5dDVFR2hqc0tGdk1sVFJNVll0MllOWV9YVjRuLUpwbXhwNGQ0NGxpM051RHNvdm9GVS1xOC13M0ZTWF9sdTlPaGR6d1hYMThpbGQ1cUpo?oc=5",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "972cb2712c2bbef0cffa",
+      "company": "파두",
+      "title": "파두, 주니어 탤런트 채용 실시…두 자릿수 규모 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vb2pVckgzTjV6aWxJU2NnaDA4RVFjbDZrNUVZeXFScERyQ3M5LUY1SWg1T1BnRHBOWGRlcUdTSzFSZjE1NjM2RUFkcGpwSFRiV1JKaTFkMWFfOGRITm9Sblpn?oc=5",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "cd3e0ba40cc415a4f290",
+      "company": "파두",
+      "title": "파두, 펌웨어·테스트 엔지니어 등 3개 직무 채용 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPbjE3NDVRSnF1dC1QWExMemFnWmFTaVRDSXRYTUJ4VVRrWEdLMkJPREU0aUh4Yzd1Ui1HcDI4bVBwUi10VnRzdHRsNktkMWhTM2tfMkxJTFN3LWJoVVk0eDJYajllSHZncGRvY1FSQ1E4dmM?oc=5",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "7e2ed902cb5dc6566b23",
+      "company": "파두",
+      "title": "파두, 시스템 반도체 인재 채용 - 디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WZWpYRldfbkRYa0pORzc4enNWNURzOTY1MEZwYnZJa2pBYk1wTllFOElSOVd1V2xVWkFaQkNCVXVZY2dEbHJXWDZQalJUSkhTem9ZTGRRdEJIWUVFNUhSMkxHajI2QQ?oc=5",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "0f04119f15c92f86e42e",
+      "company": "파두",
+      "title": "파두, '주니어 탤런트' 채용…AI 데이터센터 반도체 인재 확보 - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQU3Uxbmx5blAweUY3eFJEVEphN09pcmhNUDJEb19aVzcwclZmTVBfaUlFb1plakZTYUZzeDg4TUlKdENPRWtRYVk0VmhNQ2lVOW9SMExiT2lpOWJaaG9OTWlyWURDeWVXTHVjempJOHdzZTN5ZF9qaWw1cUlJQUVPRDdkZ2g1c2toZmMzTWdud3NtcVJCOUl1bE1zUi1ick1aRm9tVzFXbWdiU0FPemt0eFdtci1XVnBlYVc1bXhDWTNZRGozMmdzU2FVUGRKcm80R0FPN1NPR0lGVHZnbXE3NWc5MW9iby1VUDNibXBSZ3BLdjR0WHlLQzRQYl9IWlFqcHNtVkp5YzRYR1ZSaFE?oc=5",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "06b6e3310dcd0c099d8a",
+      "company": "파두",
+      "title": "파두, 주니어 탤런트 채용…우수 인재 선점 도모 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95QzhCQ1QtWFdDWU9vU2tvYzJnRzZXRkZzRDhubHJKR3BMcGh3T2tpOEg0bHpqZU5ReTNxYVV1d2VucUFrak9tcm9xX2dhYnBtMUdzbEJOcVFDV3dZS3FwNy14Ynk?oc=5",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "3c88be03cb63641e40a1",
+      "company": "파두",
+      "title": "실적 고공행진 파두, ‘주니어 탤런트’ 채용으로 인재 곳간 채운다 - 파이낸셜투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rYkJLcnI1b2xLeFhRc1I1d1d0THNsZlhYLWFOXzRILXVIZWZsRE8xczVZUWJiU3ZUVlROd1NobFhSZmtHNGhOWFNPZnNTdmhIbDJSeTZYSmNDRlVlOUUyYWVVODY5bTdVY1HSAW5BVV95cUxOQzNLN0RXSzZsZ2xvMHlWRE0zVDROaHA4QUNUTXlUTWtnUGd2clM4RGd1QWc3SzJyVC1QQ04tblJxVUdwelhZcElEX0ZvZXhiMEZWWDlaVW0wUEVLNC1mbGg5bmFUVlZsa0s2Z3RmQQ?oc=5",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "a08dac7b80578fd7cc7e",
+      "company": "오토닉스",
+      "title": "오토닉스, 2023년도 하반기 신입·경력사원 공개 채용 - 전기신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sbGpFNGYtR042cll5WDVZN0ozNTlZQmFWRG40dW5rY0FhTTFnOWx2dVRWTEotSXdFVUFIWDMzZzJ2UV85R21mSlhodlFBbW5LN2xaWGNtTEFscElGeG8xampPOVBLQTNBdUdRUNIBcEFVX3lxTE1sS19DQlRjSWtJODJ5ZzJhRkpqcVNsOWFKeFFTd2o1UkhNYl9uenJiOHVudFIyN0xPRTc4YTJSVktOZ3FFVWJ2US1EX2FrcTR5RjRZNzdtUGFjbHVIc2RpOHczc3U0bW9Xa1dXMU5pWFc?oc=5",
+      "published_at": "2023-07-04T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "52dca4128f07b86a37a6",
+      "company": "오토닉스",
+      "title": "오토닉스, 2023년도 하반기 신입·경력사원 공개 채용 - 인더스트리뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzb050aXJBZ19aclVqczlzLTI0S0kyTThMRFJnUklkamVWZTNkMGJDb3hHeTNMVDNsT0U3YTJYckJZem1tU1JhQWpMU09ySHgyMzQyMlFIbzNHcDZkb1BodG9nZ0s0bm1zRUpvOHV6WFNrQQ?oc=5",
+      "published_at": "2023-07-04T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "f28065a650e5d4c950a4",
+      "company": "오토닉스",
+      "title": "부산 오토닉스 하반기 신입·경력 채용…R&D 인력에 중점 - 국제신문",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMUtxSzQ2akxkQzBVTmFLOFpsbVFfejRrTk1ISWFvczI0QUp4VVE3RHJSNVJVMEs1LUtIVWtrUWc4M3JYU2NPU0F5UHRVYk1STzBEY3VWRDB3blF2NXI2MkxNYjBXMGNqSkJXSXhmTzBHTGI2a3ZlTUtJN2gtbnRQeHRRLXBBekpNOGE4VDVR?oc=5",
+      "published_at": "2020-08-05T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "f803a63d42a75e499856",
+      "company": "오토닉스",
+      "title": "오토닉스, 2021년 상반기 정기채용 실시 - 전기신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12anU0ZHdFS3M2M2tnbTNONzd0cjJja2hqMnhweUNUdVo2bWhWU25jVEpRaFM5a0ZEV0lyMGM1UGdvZk9WTDZ4MmdHZEQtQVYtWjU1MGhEaHlncVowYVBvMi1vQXgzTUtScy0ycNIBcEFVX3lxTE01VDZ3dDh4eC0zNDRVQWlTb1NvZkl5MDNvM2pGY1hxM3AzaHdLVHlXanR0MFF4cTFCNl9wUnJ5N09kTDc5Sko5eWEyVURlN0hXMHNBbTAtcVVDcFRNMEhqcTFEd2tjZWJTSGFPcGg4WmQ?oc=5",
+      "published_at": "2021-01-18T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "735ea443ced661e0123c",
+      "company": "스트라드비전",
+      "title": "[인터뷰] 韓서 생태계 확장 나선 AMD, 스트라드비젼과 손잡고 전장사업 강화 - 블로터",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmN0N5SzRNRmZXSENCdjZZcnFPM0dRaEFVWW5kdUFhSkw1RU1lTHJHOGJnYTFpMDcyZTJobUp1VTEyVko4dUQ2Nl9BZWs0cHJfa1pIdjVIYUFNUjd6M05tNERWREtXcDcy0gFsQVVfeXFMTVFwdHFXa0NKTHh3QnBGbHF6VUtJYlBFejU1YlBmTWxKNnlpSkRHaTUzOTJWai1iXzl1N0Nod1Q3dEJtRFZwdmoyYVY5S3ZCMmtTOTNvSVRQVHBzT3dqM2ZFdklZZExDdEEwQm1s?oc=5",
+      "published_at": "2025-09-17T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "bdddc7f04f3f8dd6fa3f",
+      "company": "레인보우로보틱스",
+      "title": "삼성전자 VS LG전자 '로봇대전'···인재·인프라 늘리기 '총력' - 시사저널e",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JaDNjWjRZVDVaaVM4Z1ZZaWxnUXNGZ3ZhNElraUptb0V6REtTUWxmcWM2WkdvVDc5bFJpSnlzVE1LNTFhSnZRVnlFOF9TMTZQc205My1wXzlobFlXWjM3TzlpY05oZm8zbFU2dS1PYjB4Z9IBdkFVX3lxTFBMa3ZWODRPMG82dmJVRDRvc2ZyaWtFTXF5QUVxUFhHSE42c1o5Ty1aRkpwYzJhS0RVRGtzUGFxSG5lZWlFV3phU2RBalRvRFBBSTYwRjZ4RTkybzQ2WTMyYXh4S01ScTdzbG9jTmdFN2M1Y2VvSUE?oc=5",
+      "published_at": "2026-07-06T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "3485bfe0e42a389c1297",
+      "company": "레인보우로보틱스",
+      "title": "삼성, 美서 ‘로봇 인재’ 입도선매…휴머노이드 역량 키운다 - 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCYUhETzFXRHB3UmdmMHhJY20waXdTenlWdzZkME9aNFNUdzQ3VUo3MmV4VUJGQ200S1BhY3dXanhiMWxOTmxxdlVqWUFSTFB0Z3fSAVNBVV95cUxNUWtkMGRRR2FoRWc5R0tDNjJQdmpVcHA5LUF4ZWhXLWhkNjNXbklBdExjcHVTMWZydlZPT2VYWFNfaE9WN2NOZWVCZXFUeVVPdmJHUQ?oc=5",
+      "published_at": "2026-02-03T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "46d2eb230d1a3555a8c4",
+      "company": "레인보우로보틱스",
+      "title": "피지컬 AI 시대: 온디바이스,로봇,임베디드 직무 지도 - 브런치",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBiTzlTWjFHdmRyLXF0RXJXUEpvWUlVa2NsTktVUUQ3dGpWVWRpTTFGTnlwaFNUYlFxQlk0UjIybFBhZzJFNUhV?oc=5",
+      "published_at": "2026-08-04T04:09:17+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "0d65949b1dc6cdd1ff00",
+      "company": "레인보우로보틱스",
+      "title": "\"로봇 '손'부터 '두뇌'까지\"…삼성·LG전자, 핵심기술력 강화 '속도' - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8ydnU1dTVCQy1aSVVkSHJPMXRuaEhuTi1nNlJhRjU2SmVBREpGekU4MUxOTFloUm9UMFJmSEhMYVlWM2p1WTNlRzVDZ2RGZWNXR3lKV1p1YlhvZXVTcFZfONIBeEFVX3lxTFBIemtrT1VTMlNpMmF6bTlSNjk0akJnMlFQWlE1aVlXYjQwbS15T0FSaEFMaXYxa1YwN1dWdTctcTVMRDVkdThKZS1Bb2pWcVFNWENiVVpqQU5NbGVQbWJhM2hxWkI1cGxjb0N0ZXhRLUJ2LWVXQW4ydQ?oc=5",
+      "published_at": "2026-11-08T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "25b7237547676dd1f249",
+      "company": "레인보우로보틱스",
+      "title": "로봇 채용 공고, 현대차 로보틱스랩 12건은 전부 경력 — 개발·설계·현장 3파전, 신입이 넣을 50자리 마감 순 (11월 10일) - 티스토리",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NWmItSENRR0VYQnNmR1h5VjNHNlVtSzRPdjJNVHhuNXUwWUhDck9CVU1IQjYtLVJodG5qWnRPVU9Vald0aXBqeDRuanVXdndRb0E?oc=5",
+      "published_at": "2026-11-09T22:53:57+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "9aa178813c03398fea0f",
+      "company": "레인보우로보틱스",
+      "title": "로봇 취업 현실 2026 — 공고 916건을 세어보니 신입 문은 17.7%, 레인보우로보틱스 33자리 중 개발직 신입은 0개였다 - 티스토리",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wYWdoa1RZWmVWOVZZR3VoR3hiUXZfQmJTdzNHNFlOSk5vaEtNWnhQRk44NHpSaDV3YzQ0c2Y1RGRwM25td1ZQdEdlVFVfZnphQlE?oc=5",
+      "published_at": "2026-08-18T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "81861194f92714c8ec3a",
+      "company": "딥엑스",
+      "title": "딥엑스, 라즈베리 파이 5용 NPU 기반 AI 가속 모듈 출시 - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16YkNVVUNpOTlHWUt2bmY4c2FtZU1ocDR5OGl6Ty1YTnFQODFoanRpTEJSRTloRUx1dGNPNDBjZ0wwMzlkdU5WcFpnbFpRQnp6UU9NUlVn?oc=5",
+      "published_at": "2026-06-25T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "8c67ab9dafaeb812602f",
+      "company": "딥엑스",
+      "title": "딥엑스, 유럽 AI 시장 공략 본격화…임베디드 월드 2025 참가 - 헬로티",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KUEJXYk4ycFZFMFFmWndiWlVtYTlDRGk3c0c3T0p1bHh6cnE2WldsM0JzZEQ4QUU0OVItbWlTQmU5Y25oYWtQbE1Qa1ZqWW1MX2xCTnBNdUNNcjREVWc?oc=5",
+      "published_at": "2025-03-12T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "a5f845531d5c310123e9",
+      "company": "딥엑스",
+      "title": "딥엑스, 올해 첫 AI 칩 양산...독일 ‘임베디드 월드 2025’서 글로벌 기업 협력 성과 공개 - 녹색경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xOVFiUFBSUDh3Y3ZVRGNGT0wyd3FEN0YxVERLbWxJdmhJRjVScGpqMExsSk1RcW82VnBjeHMtX1oyLW9abG5ndl9EZGhwUW80THAwckZkVE4yV1JVS3BGYnk0OTh6N3Rx?oc=5",
+      "published_at": "2025-03-12T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "3a6843e98f84b10c913f",
+      "company": "딥엑스",
+      "title": "딥엑스, CES 2026 혁신상 2개 부문 수상 - 플래텀(Platum)",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9qQTlfTWEzRGozTzJhQ2hjQm8wdTJBc2RRWVVzUEMxakFFZUc5b0VVcmhybDVWa2UweXk1T0dEcG15NXpwb3ZmTg?oc=5",
+      "published_at": "2025-11-06T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "c12dddda20dfe0f8060b",
+      "company": "딥엑스",
+      "title": "딥엑스, 라즈베리 파이 5용 AI 모듈 공개…글로벌 피지컬 AI 시장 조준 - 이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON3E3aFZlQU8yMW5mVGdsZVlEdTBTWUlsWUV4TmtVTEs1eWh6QjVqWUpRVDlkUFRoTmNzMEJPR2doQjk5b2hyWEJTeUFxY01aX2g5WGVfQlhkdUVVMndJWFU2RlJvMUdRcEZPWDJ6aHJVbnJMQ1VWX2s3YzFKbWg4Qg?oc=5",
+      "published_at": "2026-06-25T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "45827d4cbb98ad548f8a",
+      "company": "딥엑스",
+      "title": "딥엑스, 獨 ‘임베디드 월드’서 글로벌 기업과의 협력 결과 공개... “온디바이스 AI 시대의 리더십 알린다” - 에이빙",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rTHUyLUdMTXFiUTJkaDgzYm8tdV90YWc3d0g5NWJ1TUt2bWpjeXhJdURxR2MtWGpWRFBzNlZXU1o1MlF5QVVyUC1lekhnWDZEcS1Cc1BPMmFPTkxCbXN5T3laVlZaVDjSAWtBVV95cUxOa3RWYjlScFMwcEU2V1NQZXdkSmlPRFF6LURmUkVHbXlFYlpGRG5UU3VSTm1mbHc1WDFXWjB4bktKNGtFNGZwQjFKb2dNbUpJYzVIRjRHVkstM1NmNDdCYXdtUDBXUHVMelpMbw?oc=5",
+      "published_at": "2025-03-12T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "4ed880c4ecd789744010",
+      "company": "딥엑스",
+      "title": "딥엑스, 국산 온디바이스 AI 반도체 상용화 성과 부각 - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90c3g4QmpPbkVRdGVDZXZQdWtUekFQSjFMdTNaSUVsbFlzbEp4WGE3TU81YTNPMVgzYVNpLUlsZGN6UzBGV0tmZUJDam5vRnAyOUlxYXRR?oc=5",
+      "published_at": "2026-05-12T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "15c5ce1a2f7061de4ac4",
+      "company": "딥엑스",
+      "title": "딥엑스, 독일 전시회에서 글로벌 기업과 협력 공개 - edaily.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZEJ2M04wbnJBbzB1QXZzMlloMnZ2eG0waTUtQkdBN3JOYWxoU3FnRVd0OF9zS0ZCOHl5eU5MSXVwUkRldnAxYW8wcHVjQnkzdzZiNTR0WmtoVjhsVUNFZnNPczVFUk9LdHlrUWZYRGNsQWtCZGNiWXlUaFZDOEpaNg?oc=5",
+      "published_at": "2025-03-12T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "68793fcc5ccc55f5bf0d",
+      "company": "딥엑스",
+      "title": "딥엑스, YOLO 개발사 울트라리틱스와 협력…AI 반도체 개발 생태계 확대 - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ca0p6aTBrOS14dm81dlNibkZGTXdTUWVFdVlxcmJreGxVZGpjVVNWelloUmgxX1ZZYm1yc1JaNktiS0xVZWJWc0Z6dm44eEMzUjdjMGhR?oc=5",
+      "published_at": "2026-05-18T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "2b59da4e09e6971a0e65",
+      "company": "딥엑스",
+      "title": "딥엑스, 글로벌 고객사에 AIoT칩 검증 제공 - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IRGZVdk5JbzRPV2JxbkJnR3FLNTdMYkRCR1lEZVczU0FBeTB4VHVXOHVjdEQ4d0phbWZESHlmdHBBTXJUS3Q5THZRZDE0Z0hrMWZxbGp3?oc=5",
+      "published_at": "2024-01-04T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "c7c66b0f03fb2f018df1",
+      "company": "리벨리온",
+      "title": "국산 AI 반도체, 소버린 AI 심장으로…SKT·엔비디아·리벨리온, 데이터센터 동맹 - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03bE9nY0wyUkN2YWF0V2w4c3B6WkxCZDlEOU1xMnFqTGNrZzJHQjZKWFM3a3VZTUxNandmeUZDcWllcVE2djlmNUVUNmkzaE5ySXBUeDNB?oc=5",
+      "published_at": "2026-11-09T07:20:32+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "54313345f30d6ba5a187",
+      "company": "모빌린트",
+      "title": "모빌린트, AI USB ‘MLD-R1’ 정식 출시 - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VVjc1ZjZ0UEtSdXhoeDNFVk9PSE1RbHVTdmtUUlZDR3Z3YzZvQmxvY2lod2d5QnNYSjlCajEtTzR1ZXhlcWVwS3hudHpyVTdZOHZFcFB3?oc=5",
+      "published_at": "2026-08-07T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "b0c9b37b563202802a77",
+      "company": "모빌린트",
+      "title": "모빌린트, 휴머노이드 특화 온디바이스 AI 컴퓨팅 플랫폼 개발 - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QOWdSeXZ6VXhNSHl6MGJJbnlYbllnbV9UeW5WX09KMThBeFVIT0dEeHNCV1dzQ2pYRW83MlhGOWFOb185X3ZfWDBrUVhQMkZMS0d0Z3J3?oc=5",
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "6a06ddf1d71a125fafc4",
+      "company": "모빌린트",
+      "title": "모빌린트, COMPUTEX 2026서 대만 AI 생태계와 협력 확대 - 보안뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5LWVjUVBYV0VCT3V4UzN6cGRKVmtDZkt0UTdjSG5HZUZyVy1TdGEydzZvLUtfeXZWcEt1VkxlcFVtT0JVa1B6NWRpZnJ6Y0dBekh0SXNDVkk1VUgzZVNEcWpWSVhBZE1EREQw?oc=5",
+      "published_at": "2026-06-09T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "d17d2cbfffe492470fb5",
+      "company": "모빌린트",
+      "title": "모빌린트, MXM타입 AI반도체 카드 출시…\"로봇·서버 등 공략\" - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zNzZSQ0hKb3RBa3lRbG9udUhFbzlnNE94LWpWczdPOFhqU3Q2T21KQndTWTgzczRRM3NFRkJ6TXU5Unl5TkEyemo1Si03UkxsS3J6dEthSkszbmxWeVBnVG5SR1FHQUtUSUHSAW9BVV95cUxNWWg2SVp1cUg3dlcxZl93Nnk5RUJsRmREdndRYk91UVQ4NXpkT1pWUjUyWmtuMHY4RUlvNzFXS1RTTjZtS1Bjem03QUIyUTlMOWVNMVhXdHBiVHY0SzdSVHNmN0w3Qi1mUTNXWmlXclU?oc=5",
+      "published_at": "2025-04-30T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "ed918ddd1a5d1006fd71",
+      "company": "모빌린트",
+      "title": "[Y인사이트] 온디바이스AI NPU 스타트업 모빌린트, 올해 매출 가시화 - 디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03WjJ6LWQxaVJuN1pRRmVZZHFYZjRFbVJpMjJ2VXRKdTBIVkxNVWR6X1Y5cnlESEtuUnZJXzFEZ0U1Z05WWlZTRnpETmwyTnk0R0VLMEJKdGRpQVZGZUpvRWNDT25BQQ?oc=5",
+      "published_at": "2025-03-04T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "8131f5dbe93dffb142cb",
+      "company": "모빌린트",
+      "title": "신동주 모빌린트 대표이사, “‘AI 반도체 시장’ 추론 급성장에 ‘엣지’로 이동” - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBTmVUZWE0UExhTzlrdXRISEVQdFVBLUhmaDk2cDlJMlFxSzE2NURTTTV5Wm0yalJwcHVndElGS3dTR09oa3FEc2VWYTU3eGFPdmN5dDlR?oc=5",
+      "published_at": "2026-04-27T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "8e3d4fbbc7a318cfdafc",
+      "company": "모빌린트",
+      "title": "모빌린트, AI Box ‘MLX-A1’로 CES 혁신상 2년 연속 수상 - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwUmFzdklpbGdjMXRjNzdoOExYZi05NC11QVR5QjV2NFJVdmZfeTJIcTI4TWdZVk9TQkFiakt1VWpKdUVWTlFKTkdrX0RRWlZjYkk3MjVn?oc=5",
+      "published_at": "2025-11-07T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "ca89f4da5b27bdb27245",
+      "company": "모빌린트",
+      "title": "딥엑스, 국산 온디바이스 AI 반도체 상용화 성과 부각 - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90c3g4QmpPbkVRdGVDZXZQdWtUekFQSjFMdTNaSUVsbFlzbEp4WGE3TU81YTNPMVgzYVNpLUlsZGN6UzBGV0tmZUJDam5vRnAyOUlxYXRR?oc=5",
+      "published_at": "2026-05-12T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "06fd895ceaadd3e05994",
+      "company": "모빌린트",
+      "title": "모비루스, 산업부 무인 농작업 로봇 3세부 주관기관 선정 - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRnR1ZkpjQzRKWHZEeWhsLV9VS2ZrTzczNE14Q1lBRi1BX0x5eFF0RXBCLVZGVFFhQ1YzY1IwaF9yV2VmaUxoZklHbVZDVTBKTkloVmRR?oc=5",
+      "published_at": "2026-09-14T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "caab272ee522d003bcea",
+      "company": "모빌린트",
+      "title": "산업부, 스타팹리스 본격 육성…글로벌·라이징 韓팹리스 대거 참여 - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VU3FYdkkyYTRkbVBKRjRLVFNPVFN2OU41QUNFOWdrRlNQUW1jLUViOGJha3lhcjlFZ1ZxQ2wtdnBoNWtBRjNtaWo3UjRoTGh2ZVFhMmh3?oc=5",
+      "published_at": "2023-08-28T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "17ecf9220716aeecbf23",
+      "company": "아우토크립트",
+      "title": "아우토크립트, 미디어텍 칩셋 취약점 발견... CVE 2건 식별 - 보안뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MLU5ROGhpd2t1NnlVdWF4aHpmZXQ2WGk0WTN2VG8tWGwtRm9kMWdsNGRpRjR2S3NNOHdybVNWN2xQREQ3UVZENUdKbHhPdVFVWUc4eGxBN0VWUlJ2SHpCMXoxVEZqWEQ4dTdR?oc=5",
+      "published_at": "2026-09-29T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "eefa1acdb674f92c4e82",
+      "company": "아우토크립트",
+      "title": "[2026 강릉 ITS 세계총회②]심상규 아우토크립트 부사장(CTO), “자율주행 미래 ‘보안’이 결정” - e4ds news",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qYkQtbnUwdnZ3X3NwM3F0cmxLWWZvNmVDYm10NEpjVDJNb0lSRWxnWlg1ZlhvbmZ3Q1huaFlxeGdETV9URkV1QnhCRm85V0pwbDZrSnNn?oc=5",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "7244c0cc693afc84cef1",
+      "company": "아우토크립트",
+      "title": "아우토크립트, 데프콘 車 해킹대회 83개 팀 중 1위 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04eUhWLUVVNFFBSXoxNWp2dE1YUUt1cUhDbURTVjNrc3FQZ3plc2lfTWFXcG43T0pCTlRQVVVQNmswdTVoRFpBUkhOaUFjdw?oc=5",
+      "published_at": "2026-08-11T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "c1b9404a5862730835d9",
+      "company": "아우토크립트",
+      "title": "[IPO] 자동차 보안 솔루션 기업 아우토크립트, 글로벌 규제 대응 앞세워 IPO 흥행… 기술특례 상장사 중 '최고' 경쟁률 - 인베스트 | invest",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZTncyb3RLa2wzbFZncEtYYXZWZ25lQ2lSdmFJQ0VMVS0tWWlXcVFpM0x5aS1DcWtlNnNHRU1lY2duZWoxV01BVTdPaWFfVXB5V01SVDhzc3pKcTZEMTJoTWgtSGxuU3pBZjZfaUFaNVJYUdIBdkFVX3lxTE1sdEhZeDFFVEw2VFF5RTdsbnpBWHl0SUQxS0xiTm1MaDAzVkM4UjBpeVFmakJwNEg5ZDVLeWItNHVOTzdUbUEwS0pvV3p1ZnprMFpFVWVCYm1yTmxXc29EclBfUmxUM29SQjB3c0R3Q05jMThkSnc?oc=5",
+      "published_at": "2025-07-04T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "85d56e21faee48d44535",
+      "company": "아우토크립트",
+      "title": "[Who Is ?] 이석우 아우토크립트 대표이사 - 비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2MTRvM2tYXzFoMEgtSmxuZllQODd2R2VCbldvVDRKcUFLakxtMndNUUpiazRZOTRPSTY0SDd2NG94M1ZtS1ZMRFN3b3MwalhTbGh3dDI0YTRLZnJSSzkwTkZjQnJKbzU5ZkdkVXVNaXRKQk0?oc=5",
+      "published_at": "2025-09-29T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "ccf4e83c52225faded86",
+      "company": "아우토크립트",
+      "title": "아우토크립트, 데프콘 차량 해킹 대회 우승.. '25시간 만에 해결' - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zNGdHX1BmU1VKY0hpcVEyUEZDWlU4cklFdGd0Y1VpT09wQ2dIeG9Sd0d0QkJFUU5WNUE0MkpYNUtjWmZYbnlyVWhuUnhuRTg5WnI5ZEJaWGlGaE9OdW8yYTdGNUlvYS1KbUHSAW9BVV95cUxQT1ExY19SN3hKNDBnWV9YdEJ6MmV5NzZiUTA5Mkh4a0F1WVJDY1pMSGlIVzdrRDhsdl9MdElGdlBNekljYnlFUV9VYy1kcUMxb2MtSTNhaURtN0dYQ1lpWlZJRjlyXzczRHNUUlh3cTg?oc=5",
+      "published_at": "2026-08-11T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "04f6e79bf0c00f1e19b7",
+      "company": "아우토크립트",
+      "title": "2026 현대오토에버 공채, 자소서 문항과 가이드라인 - 잡플래닛",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOMzhZZGYxeWZXVDdkUmxvUVFWWDlTdzdCdUstMjROV0gzT0ZYOURDMTBsblcxbVZ1anZUQkVUV0kyX0Voa1pxcnBuQmVUYTNoS29GaktwR3FBX0o3RWFfX25fdlVZdFFUZS0wYXQwVVozenhmTGpPM0cwWTQ2V25Ea0JObmFPLXVpaTVvQ3VrbWhEVUYtQVN1Ry0zMmxqQnBJcHNqYUpaTjFJbVc4alhJZWtTZW45ZFV1amdCdmJYa3hGUjlzcW5PTS1pcV9haUpOTEF2eVlwQ1Y5cUNzdjVKMFB3S0tEamZkUGdvQ3ItNVN0eGZleEJWcGV2VGNCUnNvdk44NllIQ0xnamZSQXF2UnZWZW1RRVQ4ei12eVByOWJWY09Ec0FzUERySzgzdFhqZmN1Zk1xb1JqczRHMEExYXNjSEJZQVFwdy1n?oc=5",
+      "published_at": "2026-03-19T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "4cbf95bc7f666bcb0133",
+      "company": "아우토크립트",
+      "title": "[2025 자동차 보안 솔루션 리포트] 성공 3박자 갖춰진 자동차 보안 산업 - 보안뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55bjNvLXJwUHpKSHphWWRUcVg1X1hQN3Y0TlpCMFZCSVlxcTNFWEJjMFh6U0J1bVpyb1Q4eXREZS05TmFTVVhESFNvSUJIUm1UT1VqSlNYZW52SlpHeWtYa2F1cjVzTGp6VTJF?oc=5",
+      "published_at": "2025-06-04T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "be0532a3e789b696aa82",
+      "company": "42dot",
+      "title": "포티투닷, 자율주행 분야 경력 개발자 채용 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTDBVY0d2b1NDWEJwaGdJeEtWWUE5M3ZvMXNjdVRtdG8wVXhHZkJxZ20yNFNlTEdsYUV1OThKNl9VS0oyQnFFZ1RveW9IeEVrU0UwcnVXTktGMTV0c25qLTFUa09wWmxMbXhLWENaNkdhY0k1cFRpc183WGh4OHdoRVlMNUk1SkFfSG9kRkNCMVNFRU0?oc=5",
+      "published_at": "2026-01-27T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "87e87c689c630ae0b181",
+      "company": "42dot",
+      "title": "\"아트리아 AI 고도화\"… 포티투닷, 자율주행 분야 경력 개발자 채용 - 디지틀조선일보",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQektGZEZQaVdoVEp4TTFPWGFiME9vZTBXVjdHU2dZZXNTUDRzbFdoZHg2Tmk0TThIbnZWLVVxVTdpdlA3bXV4dTFoSVJhcVJ3cDRLNTd0QXBlVDlwSkRlbVlVQnNTRzJQNHVzTUQ0ZUZjc1VKV2I1X3Q4T0V4SFhPLTZfSGc3SjTSAXtBVV95cUxNOHp5UjlOOU5MZW16MUppUTl1alZsWTRkTDdlN0cxMmxfZTR4OGoxeUdyWE81bVlncmxMbzYwWXpxdWxyLV9XTzcwc2NQQk40X29VSVpNc2NNeWE4YzRwcGNnV0htd3NaWW1SMHVTb3BGb1NGNWE2Nk9hdFk?oc=5",
+      "published_at": "2026-01-26T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "7104eb8fc5ccc73c081b",
+      "company": "42dot",
+      "title": "포티투닷, 아트리아AI 중심 자율주행 인재 50여 명 확보 나서 - CIO Korea",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQbnFDSGtaSjJRdzFfLUJwSDh3QjFGRDdaWHRDZV9BQ2N2UUhldjV1VjI2VnJxVFR6dWIzR2l1bzdmLUtGcGh1dlBDa1BFbVNKaWV6cDhuYS1YYy1xc2p3ZHBWcWJXOXpOa01RT0k2eV9FdnMtZFAzLVExUWdIWjdmazREb0hRXzdwY2JTQ1lseU9HNFFWQzhMUkhmU3VrRmk2cnhwZjhUcDM1TGtRTXVfSnBZb3NXMmh0RUdZSmdkQmJmOUpnMHIwRjMwcWktNHNuRF93WkljTDBTc1ZqSDhHQndHWWdhMFNqc2NYb1NpR1ItQy1ZU3IzMThBSFcwN1VMYVQ0QTJUanhsX29XVXBDX1d3QUo1RlJPU1BGYmhVRnNmWkhaZ0dsWnl3VmFzTUpSMGZLZWMyeEVvclZFMHVWMXAwV05sZmoxUExtSkQ5YUtwQQ?oc=5",
+      "published_at": "2026-01-26T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "102246509611288e8989",
+      "company": "42dot",
+      "title": "포티투닷, 자율주행 분야 경력 개발자 모집...‘아트리아AI’ 고도화 위한 50명 채용 실시 - 인공지능신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41NEJfUnJ5UkszUXNRUzNNSE9YT1BjZjdoMkhjZjN1d3gycGlORjRZaWNwVHNVcHFSb0lNb1A0TWUtdDdWUG5rOC1zSmpaT05ZLUxSNkU4cmJhYnMyN1g1Q3lzTmtHbGM?oc=5",
+      "published_at": "2026-01-26T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "bd528807c234215f4fed",
+      "company": "텔레칩스",
+      "title": "[껌이지]차량용 반도체 분야 취업을 꿈꾸고 있다면 지금이 기회! - 에듀플러스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OZzV2cXptZlAxVjJxY0tOZnNBT3dOMmp0MUdTRzJGRkRFVGdKLTFvM0NzUmlVeHZiYjY2b0NRVHRzTlNvR3RUczgtcXpGWWRkaXRRUWRwR0Z2cl9KNDJmbXNfRGx4ekZaVFVhMHp30gFyQVVfeXFMTU9VMFdoVFJWejBQNXlqN24wMGtmVkpnV04yZlJ6ZVVKQzBXS0RFOFNfcHA3TEFSZ3RKQmJjbE96QU5wNi1Db2xJQmJ5b3pSTmkyWF9RRGhodm9PcFNqMlFNTktGLTNhZ08tZG5mclI5WEZ3?oc=5",
+      "published_at": "2026-08-02T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "45f7c1194f6a1605fab2",
+      "company": "텔레칩스",
+      "title": "[껌이지]텔레칩스, 차량용 반도체 임베디드 스쿨 5기 - 에듀플러스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HRkhWWngzNWVSQy1xYnJDN2gxd1lncTEzM2xRN29WUDVEWHFZaTJBYnFQVFIxYzQxMnI3RmplcmMtVmRfMUNZdURiRlp1em1NQ0RRYTZXSFpkVnRsdmNaS3dBV3Nla3BPc21wRFFR0gFyQVVfeXFMUHRxYnQwZjhwelotNzdXcHZuSjc5Q2VRNmRKNjE3dFM3NTN0R0JUczJYSkJIZjg5RUFVMEFTV0UyeFpqdjRacE5YTUxfdmJVZHpYZWxsdEhrbWtCTzZqbEdYVXpQSTVpQmR0V042YWgwUG1B?oc=5",
+      "published_at": "2026-08-04T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "3f623ea3fb7cedbcb601",
+      "company": "텔레칩스",
+      "title": "[게시판] RAPA-텔레칩스, 차량용 반도체 임베디드 스쿨 모집 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYbjF6d29fcG1BTkdkTkU3V0lkNGU2cGtYVE0tS0h1RURjSy1sOEJYZy1LRDRSb1JmMHA5VE1uWEVVeHVJTUpWa2tEX09XRENMNzNPOGRxMExfQVHSAWBBVV95cUxPdFpsaXpWcXYzYmhoZUJ6RGFzeEg5Z0JWWm5kb05HNTY4OWtaQjhVSGo4Mm9TQ2hMUl9EWlNGc19zeHpjMl9nV1NBakRJMnZ1d3l4TlhTYXROODlDY0loaDM?oc=5",
+      "published_at": "2024-05-20T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "ed3b64b2217d494a7267",
+      "company": "텔레칩스",
+      "title": "[교육뉴스] 텔레칩스 채용연계 ‘임베디드 스쿨’ 3기 개설...수료자 전원 서류전형 면제 후 면접 진행 - 아웃소싱타임스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DS3BQVDBSd0F6azlnSkVERWlOR21NaUc3VU9kNTFSSU1wcU5JMjRFSDVIdWRoSURkSFRlenlDYkVZeE1GdDNacE93bm5XYkxUczBsVHNjQjFfRnFhRFhPRDlCelFzcERVRmZyRTVlalV5UQ?oc=5",
+      "published_at": "2025-07-15T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "1dd12ebae60b6bc53bc7",
+      "company": "텔레칩스",
+      "title": "한국전파진흥협회, ‘텔레칩스 차량용 반도체 임베디드 스쿨’ 3기 모집 - 스타트업엔(StartupN)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82U3A4SDJXYWV6Y01kdDROWFdCVUpoTklRbF9TMl9JdWtCRmJPUk5VQTVtSzNhclRrTGc0cmd6dlJqaFF2Uy1DTlByYlVQWEM5X0dRVjNwLUlncjJIanNyNDRsTlAyWllr0gFsQVVfeXFMTW5IaGNXWVdPcGphdVJub2ZhMGhIOXVCRWpra3ljUlk0Y2VDZmEyaDhHaWFlVEcyVGd5djFNWFBSZFJWMFZkZHV0YXNFZmIwdDF4bWpHZzljSC1JUllCSlhHdWVyN1NqczFrb21n?oc=5",
+      "published_at": "2025-07-15T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "bc3d7984b5a8b4abc20f",
+      "company": "텔레칩스",
+      "title": "RAPA-텔레칩스, 차량용 반도체 임베디드 스쿨 1기 모집 - 정보통신신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuMFUySVVqNUtGRndHMklpLW12eHRjZ01iSjFNWkpDRXZ4NUNHWUc4b1ZZckdJS3dlUHQ5YnVxRXkybDlWUlRlY2tEUk9WNWZEdkFKazdhQTQ5Tlg5UW92dkF0MHhOdS150gFsQVVfeXFMTWhxUlJVVGk4NTFXS2RxZFRsN3F3cHJreS1TWE1fQjhWNVRFMnlETUNCWlV3RldnUjBhaUU3WnRkaVVIN0JDY3lrZFk5VkJqSzg3a1NTbmdkYWpycEktc1ctNUF0VEt6NVR4U2E3?oc=5",
+      "published_at": "2024-05-20T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "857b42ff6cc7658e247d",
+      "company": "텔레칩스",
+      "title": "텔레칩스, 오픈소스 플랫폼 'TOPST G' 공식 출시 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCc29Cd0hBM25CdFVod1JSLVJSaXlnZE9icExzNzFZbmxtZi0xa3ZhM3ZVcDM1dEhFVWlRZnUyR1hkenhGUzdaTTh3LV91LWpfa0tZU1NGTUFVMWxqZUtUZWhsWnJwWWp1VTEySnV4VGhzYkU?oc=5",
+      "published_at": "2025-07-29T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "91ddfddba9c8b97517f8",
+      "company": "텔레칩스",
+      "title": "RAPA·텔레칩스, 차량용 반도체 임베디드 스쿨 1기 모집 - 데이터넷",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zdFYxcU1GMmVaYjFFQi01VkZDQXBsQVVGVDBLWWxfR3BMSVZsVkFmOWctNzMtYXZPWlBsMXhpV1hfejVrRHgzblpaS1NOazU0NUZEcTV1WFF1YnFTQ2lvSDJIVWt5a0otREZHVg?oc=5",
+      "published_at": "2024-05-20T07:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    },
+    {
+      "id": "9afd821b44bf84f3c46b",
+      "company": "삼익THK",
+      "title": "DASH 잡페어 개최···대구서도 스타트업 채용 관심 뜨거웠다 - 영남일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MZE94UzZwYmFRblRKdkZvWTB6VU9XZDhWdVg4NUdjNGEtSjBWc1ZqbnYwVzFlaUxRZWhqRDVFa0Z5M2UxVUFZR0xLakxBaklvclRwNElNNVJQN2UzYnh0MkZvWEFFZmJSVG1j?oc=5",
+      "published_at": "2022-11-21T08:00:00+00:00",
+      "source": "Google News RSS",
+      "verified_opening": false
+    }
+  ],
+  "errors": [],
+  "companies_checked": 35
 }

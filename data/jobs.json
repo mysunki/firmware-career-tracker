@@ -1,5 +1,7 @@
 {
-  "updated_at": null,
+  "updated_at": "2026-11-23T01:28:32.423772+00:00",
   "jobs": [],
-  "errors": []
+  "errors": [
+    "고용24: WORK24_API_KEY 미설정 (API 신청 및 승인 필요)"
+  ]
 }
