@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "company": "코텍",
+      "url": "https://kortek.career.greetinghr.com/",
+      "type": "official_careers"
+    },
+    {
+      "company": "삼성전자",
+      "url": "https://www.samsungcareers.com/",
+      "type": "official_careers"
+    },
+    {
+      "company": "HL만도",
+      "url": "https://hlmando.com/ko/career.do",
+      "type": "official_careers"
+    },
+    {
+      "company": "현대자동차",
+      "url": "https://talent.hyundai.com/",
+      "type": "official_careers"
+    }
+  ],
+  "note": "Only confirmed official recruitment portals. Other companies use official-site discovery links until validated."
+}
