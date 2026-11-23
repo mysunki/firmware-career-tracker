@@ -1,4 +1,18 @@
 {
-  "companies": [],
+  "companies": [
+    "뷰웍스",
+    "HL만도",
+    "에스엘",
+    "삼성전자",
+    "한화시스템",
+    "LG전자",
+    "현대모비스",
+    "현대자동차",
+    "코텍",
+    "LIG넥스원",
+    "SK하이닉스",
+    "한화에어로스페이스",
+    "세메스"
+  ],
   "description": "Add company names to monitor firmware/embedded hiring."
 }
