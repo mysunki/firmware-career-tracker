@@ -27,6 +27,10 @@ def main():
   except Exception as exc:errors.append(company+': '+str(exc))
  target=ROOT/'data/jobs.json'
  old=json.loads(target.read_text()) if target.exists() else {'jobs':[]}
+ from work24 import fetch as fetch_work24
+ work24_jobs,work24_errors=fetch_work24()
+ out.extend(work24_jobs)
+ errors.extend(work24_errors)
  if errors and not out and old.get('jobs'):out=old['jobs']
  target.write_text(json.dumps({'updated_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'jobs':out,'errors':errors},ensure_ascii=False,indent=2)+'\n')
  print('Jobs:',len(out),'errors:',errors)
