@@ -35,6 +35,6 @@ def main():
  path=ROOT/'data/watch_results.json'
  if errors and not leads and path.exists():
   old=json.loads(path.read_text());leads=old.get('leads',[])
- path.write_text(json.dumps({'updated_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'leads':leads,'errors':errors,'companies_checked':len(companies)},ensure_ascii=False,indent=2)+'\\n')
+ path.write_text(json.dumps({'updated_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'leads':leads,'errors':errors,'companies_checked':len(companies)},ensure_ascii=False,indent=2)+'\n')
  print('watch companies:',len(companies),'leads:',len(leads),'errors:',len(errors))
 if __name__=='__main__':main()
