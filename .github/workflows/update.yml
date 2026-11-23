@@ -17,6 +17,8 @@ jobs:
         with:
           python-version: '3.12'
       - name: Collect public job feeds
+        env:
+          WORK24_API_KEY: ${{ secrets.WORK24_API_KEY }}
         run: python scripts/update_jobs.py
       - name: Commit updated data
         run: |
