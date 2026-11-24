@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-23T13:02:13.683603+00:00",
+  "updated_at": "2026-11-24T10:01:36.272413+00:00",
   "pages": [
     {
       "company": "코텍",
       "url": "https://kortek.career.greetinghr.com/ko/main",
       "type": "official_careers",
       "status": "ok",
-      "sha256": "b78213660511e4e1014c22c627c374a9509257dc31924c0f855e2a0188fb6f69",
+      "sha256": "92a783e3f7861d2c1e837bdaac8f71fea5e7a9462821720046010dd995b7bcd9",
       "error": null,
-      "changed": false,
-      "last_success_at": "2026-11-23T13:02:13.683558+00:00"
+      "changed": true,
+      "last_success_at": "2026-11-24T10:01:36.272379+00:00"
     },
     {
       "company": "삼성전자",
       "url": "https://www.samsungcareers.com/",
       "type": "official_careers",
       "status": "ok",
-      "sha256": "97fafa533947c73e0185b36f7b73523f4aea2386b56d9b707cd82ed567f88664",
+      "sha256": "44d805ed71bad0ebee4c3083527d60760bbed89db176c3881487f38a63f9ec60",
       "error": null,
-      "changed": false,
-      "last_success_at": "2026-11-23T13:02:13.683586+00:00"
+      "changed": true,
+      "last_success_at": "2026-11-24T10:01:36.272402+00:00"
     },
     {
       "company": "HL만도",
@@ -29,7 +29,7 @@
       "sha256": "981e5cdf64b7c869f950089a125c618188eeb5251ad61bd888e4322cf48d86d8",
       "error": null,
       "changed": false,
-      "last_success_at": "2026-11-23T13:02:13.683592+00:00"
+      "last_success_at": "2026-11-24T10:01:36.272406+00:00"
     },
     {
       "company": "현대자동차",
@@ -39,7 +39,7 @@
       "sha256": "822f6320687d5e59f32fc235d6c756524c356d820d4e3c96821aeaf5a1b8b7df",
       "error": null,
       "changed": false,
-      "last_success_at": "2026-11-23T13:02:13.683597+00:00"
+      "last_success_at": "2026-11-24T10:01:36.272409+00:00"
     }
   ]
 }
